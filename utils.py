@@ -44,6 +44,12 @@ def generate_subsequent_node(status):
       zero = i
   for d in direction:
     idx = zero + d[0] * 3 + d[1]
+    zero_row = zero // 3
+    zero_col = zero  % 3
+    if zero_row + d[0] < 0 or zero_row + d[0] >= 3:
+      continue
+    if zero_col + d[1] < 0 or zero_col + d[0] >= 3:
+      continue
     if idx >= 0 and idx <= 8:
       new_status = copy.deepcopy(status)
       new_status[idx], new_status[zero] = new_status[zero], new_status[idx]

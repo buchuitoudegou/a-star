@@ -1,11 +1,11 @@
 from Astar import Astar
 
 if __name__ == "__main__":
-  astar = Astar(1)
+  astar = Astar(2)
   print(astar.open)
   search_times = 0
   last_num = 0
-  input()
+  # input()
   while True:
     last_num = len(astar.open)
     complete, status, f_status = astar.search()

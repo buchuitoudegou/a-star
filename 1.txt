@@ -1,0 +1,4086 @@
+[[1, 2, 4, 5, 0, 6, 7, 3, 8]]
+1
+the number of nodes in open-table: 4
+extension of the open-table: 3
+search node: [1, 2, 4, 5, 0, 6, 7, 3, 8]
+f(n): 3.200000
+--------------------------------
+2
+the number of nodes in open-table: 5
+extension of the open-table: 1
+search node: [1, 0, 4, 5, 2, 6, 7, 3, 8]
+f(n): 4.200000
+--------------------------------
+3
+the number of nodes in open-table: 6
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 5, 6, 7, 3, 8]
+f(n): 2.600000
+--------------------------------
+4
+the number of nodes in open-table: 7
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 6, 0, 7, 3, 8]
+f(n): 4.200000
+--------------------------------
+5
+the number of nodes in open-table: 8
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 3, 6, 7, 0, 8]
+f(n): 3.400000
+--------------------------------
+6
+the number of nodes in open-table: 8
+extension of the open-table: 0
+search node: [0, 1, 4, 5, 2, 6, 7, 3, 8]
+f(n): 5.200000
+--------------------------------
+7
+the number of nodes in open-table: 8
+extension of the open-table: 0
+search node: [1, 4, 0, 5, 2, 6, 7, 3, 8]
+f(n): 4.400000
+--------------------------------
+8
+the number of nodes in open-table: 8
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 5, 6, 7, 3, 8]
+f(n): 3.600000
+--------------------------------
+9
+the number of nodes in open-table: 8
+extension of the open-table: 0
+search node: [1, 2, 4, 7, 5, 6, 0, 3, 8]
+f(n): 3.600000
+--------------------------------
+10
+the number of nodes in open-table: 9
+extension of the open-table: 1
+search node: [1, 2, 0, 5, 6, 4, 7, 3, 8]
+f(n): 4.400000
+--------------------------------
+11
+the number of nodes in open-table: 10
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 6, 7, 0, 3, 8]
+f(n): 5.200000
+--------------------------------
+12
+the number of nodes in open-table: 10
+extension of the open-table: 0
+search node: [1, 2, 4, 5, 3, 6, 0, 7, 8]
+f(n): 4.400000
+--------------------------------
+13
+the number of nodes in open-table: 10
+extension of the open-table: 0
+search node: [1, 2, 4, 5, 3, 6, 7, 8, 0]
+f(n): 2.800000
+--------------------------------
+14
+the number of nodes in open-table: 11
+extension of the open-table: 1
+search node: [5, 1, 4, 0, 2, 6, 7, 3, 8]
+f(n): 5.400000
+--------------------------------
+15
+the number of nodes in open-table: 13
+extension of the open-table: 2
+search node: [1, 4, 5, 0, 2, 6, 7, 3, 8]
+f(n): 4.600000
+--------------------------------
+16
+the number of nodes in open-table: 14
+extension of the open-table: 1
+search node: [2, 0, 4, 1, 5, 6, 7, 3, 8]
+f(n): 4.600000
+--------------------------------
+17
+the number of nodes in open-table: 15
+extension of the open-table: 1
+search node: [1, 2, 4, 7, 5, 6, 3, 0, 8]
+f(n): 3.800000
+--------------------------------
+18
+the number of nodes in open-table: 16
+extension of the open-table: 1
+search node: [1, 0, 2, 5, 6, 4, 7, 3, 8]
+f(n): 5.400000
+--------------------------------
+19
+the number of nodes in open-table: 18
+extension of the open-table: 2
+search node: [1, 2, 5, 0, 6, 4, 7, 3, 8]
+f(n): 4.600000
+--------------------------------
+20
+the number of nodes in open-table: 19
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 6, 7, 5, 3, 8]
+f(n): 5.400000
+--------------------------------
+21
+the number of nodes in open-table: 20
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 6, 7, 3, 0, 8]
+f(n): 5.400000
+--------------------------------
+22
+the number of nodes in open-table: 21
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 3, 6, 5, 7, 8]
+f(n): 4.600000
+--------------------------------
+23
+the number of nodes in open-table: 23
+extension of the open-table: 2
+search node: [1, 2, 4, 5, 3, 0, 7, 8, 6]
+f(n): 3.800000
+--------------------------------
+24
+the number of nodes in open-table: 25
+extension of the open-table: 2
+search node: [5, 1, 4, 2, 0, 6, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+25
+the number of nodes in open-table: 25
+extension of the open-table: 0
+search node: [5, 1, 4, 7, 2, 6, 0, 3, 8]
+f(n): 6.400000
+--------------------------------
+26
+the number of nodes in open-table: 25
+extension of the open-table: 0
+search node: [0, 4, 5, 1, 2, 6, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+27
+the number of nodes in open-table: 27
+extension of the open-table: 2
+search node: [1, 4, 5, 2, 0, 6, 7, 3, 8]
+f(n): 4.800000
+--------------------------------
+28
+the number of nodes in open-table: 27
+extension of the open-table: 0
+search node: [1, 4, 5, 7, 2, 6, 0, 3, 8]
+f(n): 5.600000
+--------------------------------
+29
+the number of nodes in open-table: 27
+extension of the open-table: 0
+search node: [2, 4, 0, 1, 5, 6, 7, 3, 8]
+f(n): 4.800000
+--------------------------------
+30
+the number of nodes in open-table: 29
+extension of the open-table: 2
+search node: [2, 5, 4, 1, 0, 6, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+31
+the number of nodes in open-table: 31
+extension of the open-table: 2
+search node: [1, 2, 4, 7, 0, 6, 3, 5, 8]
+f(n): 4.800000
+--------------------------------
+32
+the number of nodes in open-table: 31
+extension of the open-table: 0
+search node: [1, 2, 4, 7, 5, 6, 3, 8, 0]
+f(n): 3.200000
+--------------------------------
+33
+the number of nodes in open-table: 31
+extension of the open-table: 0
+search node: [0, 1, 2, 5, 6, 4, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+34
+the number of nodes in open-table: 33
+extension of the open-table: 2
+search node: [1, 6, 2, 5, 0, 4, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+35
+the number of nodes in open-table: 33
+extension of the open-table: 0
+search node: [0, 2, 5, 1, 6, 4, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+36
+the number of nodes in open-table: 35
+extension of the open-table: 2
+search node: [1, 2, 5, 6, 0, 4, 7, 3, 8]
+f(n): 4.800000
+--------------------------------
+37
+the number of nodes in open-table: 35
+extension of the open-table: 0
+search node: [1, 2, 5, 7, 6, 4, 0, 3, 8]
+f(n): 5.600000
+--------------------------------
+38
+the number of nodes in open-table: 35
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 6, 7, 5, 3, 8]
+f(n): 6.400000
+--------------------------------
+39
+the number of nodes in open-table: 37
+extension of the open-table: 2
+search node: [1, 2, 4, 6, 0, 7, 5, 3, 8]
+f(n): 5.600000
+--------------------------------
+40
+the number of nodes in open-table: 39
+extension of the open-table: 2
+search node: [1, 2, 4, 5, 0, 7, 3, 6, 8]
+f(n): 5.600000
+--------------------------------
+41
+the number of nodes in open-table: 39
+extension of the open-table: 0
+search node: [1, 2, 4, 5, 6, 7, 3, 8, 0]
+f(n): 4.800000
+--------------------------------
+42
+the number of nodes in open-table: 39
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 3, 6, 5, 7, 8]
+f(n): 5.600000
+--------------------------------
+43
+the number of nodes in open-table: 41
+extension of the open-table: 2
+search node: [1, 2, 4, 3, 0, 6, 5, 7, 8]
+f(n): 4.800000
+--------------------------------
+44
+the number of nodes in open-table: 42
+extension of the open-table: 1
+search node: [1, 2, 0, 5, 3, 4, 7, 8, 6]
+f(n): 4.000000
+--------------------------------
+45
+the number of nodes in open-table: 44
+extension of the open-table: 2
+search node: [1, 2, 4, 5, 0, 3, 7, 8, 6]
+f(n): 4.000000
+--------------------------------
+46
+the number of nodes in open-table: 45
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 3, 7, 0, 8, 6]
+f(n): 4.800000
+--------------------------------
+47
+the number of nodes in open-table: 46
+extension of the open-table: 1
+search node: [5, 0, 4, 2, 1, 6, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+48
+the number of nodes in open-table: 47
+extension of the open-table: 1
+search node: [5, 1, 4, 2, 6, 0, 7, 3, 8]
+f(n): 6.600000
+--------------------------------
+49
+the number of nodes in open-table: 48
+extension of the open-table: 1
+search node: [5, 1, 4, 2, 3, 6, 7, 0, 8]
+f(n): 5.800000
+--------------------------------
+50
+the number of nodes in open-table: 49
+extension of the open-table: 1
+search node: [5, 1, 4, 7, 2, 6, 3, 0, 8]
+f(n): 6.600000
+--------------------------------
+51
+the number of nodes in open-table: 50
+extension of the open-table: 1
+search node: [4, 0, 5, 1, 2, 6, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+52
+the number of nodes in open-table: 51
+extension of the open-table: 1
+search node: [1, 0, 5, 2, 4, 6, 7, 3, 8]
+f(n): 5.000000
+--------------------------------
+53
+the number of nodes in open-table: 52
+extension of the open-table: 1
+search node: [1, 4, 5, 2, 6, 0, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+54
+the number of nodes in open-table: 53
+extension of the open-table: 1
+search node: [1, 4, 5, 2, 3, 6, 7, 0, 8]
+f(n): 5.000000
+--------------------------------
+55
+the number of nodes in open-table: 54
+extension of the open-table: 1
+search node: [1, 4, 5, 7, 2, 6, 3, 0, 8]
+f(n): 5.800000
+--------------------------------
+56
+the number of nodes in open-table: 56
+extension of the open-table: 2
+search node: [2, 4, 1, 0, 5, 6, 7, 3, 8]
+f(n): 5.000000
+--------------------------------
+57
+the number of nodes in open-table: 56
+extension of the open-table: 0
+search node: [2, 5, 4, 0, 1, 6, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+58
+the number of nodes in open-table: 57
+extension of the open-table: 1
+search node: [2, 5, 4, 1, 6, 0, 7, 3, 8]
+f(n): 6.600000
+--------------------------------
+59
+the number of nodes in open-table: 58
+extension of the open-table: 1
+search node: [2, 5, 4, 1, 3, 6, 7, 0, 8]
+f(n): 5.800000
+--------------------------------
+60
+the number of nodes in open-table: 59
+extension of the open-table: 1
+search node: [1, 0, 4, 7, 2, 6, 3, 5, 8]
+f(n): 5.800000
+--------------------------------
+61
+the number of nodes in open-table: 60
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 7, 6, 3, 5, 8]
+f(n): 5.000000
+--------------------------------
+62
+the number of nodes in open-table: 61
+extension of the open-table: 1
+search node: [1, 2, 4, 7, 6, 0, 3, 5, 8]
+f(n): 5.800000
+--------------------------------
+63
+the number of nodes in open-table: 63
+extension of the open-table: 2
+search node: [1, 2, 4, 7, 5, 0, 3, 8, 6]
+f(n): 4.200000
+--------------------------------
+64
+the number of nodes in open-table: 64
+extension of the open-table: 1
+search node: [5, 1, 2, 0, 6, 4, 7, 3, 8]
+f(n): 6.600000
+--------------------------------
+65
+the number of nodes in open-table: 65
+extension of the open-table: 1
+search node: [1, 6, 2, 0, 5, 4, 7, 3, 8]
+f(n): 5.000000
+--------------------------------
+66
+the number of nodes in open-table: 66
+extension of the open-table: 1
+search node: [1, 6, 2, 5, 4, 0, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+67
+the number of nodes in open-table: 67
+extension of the open-table: 1
+search node: [1, 6, 2, 5, 3, 4, 7, 0, 8]
+f(n): 5.800000
+--------------------------------
+68
+the number of nodes in open-table: 67
+extension of the open-table: 0
+search node: [2, 0, 5, 1, 6, 4, 7, 3, 8]
+f(n): 6.600000
+--------------------------------
+69
+the number of nodes in open-table: 68
+extension of the open-table: 1
+search node: [1, 0, 5, 6, 2, 4, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+70
+the number of nodes in open-table: 69
+extension of the open-table: 1
+search node: [1, 2, 5, 6, 4, 0, 7, 3, 8]
+f(n): 5.000000
+--------------------------------
+71
+the number of nodes in open-table: 70
+extension of the open-table: 1
+search node: [1, 2, 5, 6, 3, 4, 7, 0, 8]
+f(n): 5.000000
+--------------------------------
+72
+the number of nodes in open-table: 71
+extension of the open-table: 1
+search node: [1, 2, 5, 7, 6, 4, 3, 0, 8]
+f(n): 5.800000
+--------------------------------
+73
+the number of nodes in open-table: 72
+extension of the open-table: 1
+search node: [2, 0, 4, 1, 6, 7, 5, 3, 8]
+f(n): 7.400000
+--------------------------------
+74
+the number of nodes in open-table: 73
+extension of the open-table: 1
+search node: [1, 0, 4, 6, 2, 7, 5, 3, 8]
+f(n): 6.600000
+--------------------------------
+75
+the number of nodes in open-table: 74
+extension of the open-table: 1
+search node: [1, 2, 4, 6, 7, 0, 5, 3, 8]
+f(n): 5.800000
+--------------------------------
+76
+the number of nodes in open-table: 75
+extension of the open-table: 1
+search node: [1, 2, 4, 6, 3, 7, 5, 0, 8]
+f(n): 5.800000
+--------------------------------
+77
+the number of nodes in open-table: 76
+extension of the open-table: 1
+search node: [1, 0, 4, 5, 2, 7, 3, 6, 8]
+f(n): 6.600000
+--------------------------------
+78
+the number of nodes in open-table: 77
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 5, 7, 3, 6, 8]
+f(n): 5.000000
+--------------------------------
+79
+the number of nodes in open-table: 78
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 7, 0, 3, 6, 8]
+f(n): 5.800000
+--------------------------------
+80
+the number of nodes in open-table: 80
+extension of the open-table: 2
+search node: [1, 2, 4, 5, 6, 0, 3, 8, 7]
+f(n): 5.000000
+--------------------------------
+81
+the number of nodes in open-table: 81
+extension of the open-table: 1
+search node: [2, 0, 4, 1, 3, 6, 5, 7, 8]
+f(n): 6.600000
+--------------------------------
+82
+the number of nodes in open-table: 82
+extension of the open-table: 1
+search node: [1, 0, 4, 3, 2, 6, 5, 7, 8]
+f(n): 5.800000
+--------------------------------
+83
+the number of nodes in open-table: 83
+extension of the open-table: 1
+search node: [1, 2, 4, 3, 6, 0, 5, 7, 8]
+f(n): 5.800000
+--------------------------------
+84
+the number of nodes in open-table: 83
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 7, 6, 5, 0, 8]
+f(n): 5.000000
+--------------------------------
+85
+the number of nodes in open-table: 84
+extension of the open-table: 1
+search node: [1, 0, 2, 5, 3, 4, 7, 8, 6]
+f(n): 5.000000
+--------------------------------
+86
+the number of nodes in open-table: 86
+extension of the open-table: 2
+search node: [1, 2, 5, 0, 3, 4, 7, 8, 6]
+f(n): 4.200000
+--------------------------------
+87
+the number of nodes in open-table: 87
+extension of the open-table: 1
+search node: [1, 0, 4, 5, 2, 3, 7, 8, 6]
+f(n): 5.000000
+--------------------------------
+88
+the number of nodes in open-table: 87
+extension of the open-table: 0
+search node: [1, 2, 4, 0, 5, 3, 7, 8, 6]
+f(n): 3.400000
+--------------------------------
+89
+the number of nodes in open-table: 88
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 8, 3, 7, 0, 6]
+f(n): 5.000000
+--------------------------------
+90
+the number of nodes in open-table: 89
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 3, 7, 5, 8, 6]
+f(n): 5.000000
+--------------------------------
+91
+the number of nodes in open-table: 90
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 3, 7, 8, 0, 6]
+f(n): 5.800000
+--------------------------------
+92
+the number of nodes in open-table: 89
+extension of the open-table: -1
+search node: [0, 5, 4, 2, 1, 6, 7, 3, 8]
+f(n): 6.000000
+--------------------------------
+93
+the number of nodes in open-table: 89
+extension of the open-table: 0
+search node: [5, 4, 0, 2, 1, 6, 7, 3, 8]
+f(n): 6.000000
+--------------------------------
+94
+the number of nodes in open-table: 89
+extension of the open-table: 0
+search node: [5, 1, 0, 2, 6, 4, 7, 3, 8]
+f(n): 6.800000
+--------------------------------
+95
+the number of nodes in open-table: 90
+extension of the open-table: 1
+search node: [5, 1, 4, 2, 6, 7, 0, 3, 8]
+f(n): 7.600000
+--------------------------------
+96
+the number of nodes in open-table: 90
+extension of the open-table: 0
+search node: [5, 1, 4, 2, 3, 6, 0, 7, 8]
+f(n): 6.800000
+--------------------------------
+97
+the number of nodes in open-table: 90
+extension of the open-table: 0
+search node: [5, 1, 4, 2, 3, 6, 7, 8, 0]
+f(n): 5.200000
+--------------------------------
+98
+the number of nodes in open-table: 92
+extension of the open-table: 2
+search node: [5, 1, 4, 7, 0, 6, 3, 2, 8]
+f(n): 6.800000
+--------------------------------
+99
+the number of nodes in open-table: 92
+extension of the open-table: 0
+search node: [5, 1, 4, 7, 2, 6, 3, 8, 0]
+f(n): 6.000000
+--------------------------------
+100
+the number of nodes in open-table: 92
+extension of the open-table: 0
+search node: [4, 5, 0, 1, 2, 6, 7, 3, 8]
+f(n): 6.000000
+--------------------------------
+101
+the number of nodes in open-table: 94
+extension of the open-table: 2
+search node: [4, 2, 5, 1, 0, 6, 7, 3, 8]
+f(n): 5.200000
+--------------------------------
+102
+the number of nodes in open-table: 94
+extension of the open-table: 0
+search node: [0, 1, 5, 2, 4, 6, 7, 3, 8]
+f(n): 6.000000
+--------------------------------
+103
+the number of nodes in open-table: 94
+extension of the open-table: 0
+search node: [1, 5, 0, 2, 4, 6, 7, 3, 8]
+f(n): 5.200000
+--------------------------------
+104
+the number of nodes in open-table: 95
+extension of the open-table: 1
+search node: [1, 4, 0, 2, 6, 5, 7, 3, 8]
+f(n): 6.000000
+--------------------------------
+105
+the number of nodes in open-table: 96
+extension of the open-table: 1
+search node: [1, 4, 5, 2, 6, 7, 0, 3, 8]
+f(n): 6.800000
+--------------------------------
+106
+the number of nodes in open-table: 96
+extension of the open-table: 0
+search node: [1, 4, 5, 2, 3, 6, 0, 7, 8]
+f(n): 6.000000
+--------------------------------
+107
+the number of nodes in open-table: 96
+extension of the open-table: 0
+search node: [1, 4, 5, 2, 3, 6, 7, 8, 0]
+f(n): 4.400000
+--------------------------------
+108
+the number of nodes in open-table: 98
+extension of the open-table: 2
+search node: [1, 4, 5, 7, 0, 6, 3, 2, 8]
+f(n): 6.000000
+--------------------------------
+109
+the number of nodes in open-table: 98
+extension of the open-table: 0
+search node: [1, 4, 5, 7, 2, 6, 3, 8, 0]
+f(n): 5.200000
+--------------------------------
+110
+the number of nodes in open-table: 98
+extension of the open-table: 0
+search node: [0, 4, 1, 2, 5, 6, 7, 3, 8]
+f(n): 5.200000
+--------------------------------
+111
+the number of nodes in open-table: 100
+extension of the open-table: 2
+search node: [2, 4, 1, 5, 0, 6, 7, 3, 8]
+f(n): 6.000000
+--------------------------------
+112
+the number of nodes in open-table: 100
+extension of the open-table: 0
+search node: [2, 4, 1, 7, 5, 6, 0, 3, 8]
+f(n): 6.000000
+--------------------------------
+113
+the number of nodes in open-table: 100
+extension of the open-table: 0
+search node: [2, 5, 4, 7, 1, 6, 0, 3, 8]
+f(n): 6.800000
+--------------------------------
+114
+the number of nodes in open-table: 100
+extension of the open-table: 0
+search node: [2, 5, 0, 1, 6, 4, 7, 3, 8]
+f(n): 6.800000
+--------------------------------
+115
+the number of nodes in open-table: 101
+extension of the open-table: 1
+search node: [2, 5, 4, 1, 6, 7, 0, 3, 8]
+f(n): 7.600000
+--------------------------------
+116
+the number of nodes in open-table: 101
+extension of the open-table: 0
+search node: [2, 5, 4, 1, 3, 6, 0, 7, 8]
+f(n): 6.800000
+--------------------------------
+117
+the number of nodes in open-table: 101
+extension of the open-table: 0
+search node: [2, 5, 4, 1, 3, 6, 7, 8, 0]
+f(n): 5.200000
+--------------------------------
+118
+the number of nodes in open-table: 101
+extension of the open-table: 0
+search node: [0, 1, 4, 7, 2, 6, 3, 5, 8]
+f(n): 6.800000
+--------------------------------
+119
+the number of nodes in open-table: 101
+extension of the open-table: 0
+search node: [1, 4, 0, 7, 2, 6, 3, 5, 8]
+f(n): 6.000000
+--------------------------------
+120
+the number of nodes in open-table: 101
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 7, 6, 3, 5, 8]
+f(n): 6.000000
+--------------------------------
+121
+the number of nodes in open-table: 100
+extension of the open-table: -1
+search node: [1, 2, 4, 3, 7, 6, 0, 5, 8]
+f(n): 5.200000
+--------------------------------
+122
+the number of nodes in open-table: 101
+extension of the open-table: 1
+search node: [1, 2, 0, 7, 6, 4, 3, 5, 8]
+f(n): 6.000000
+--------------------------------
+123
+the number of nodes in open-table: 102
+extension of the open-table: 1
+search node: [1, 2, 4, 7, 6, 3, 0, 5, 8]
+f(n): 6.000000
+--------------------------------
+124
+the number of nodes in open-table: 103
+extension of the open-table: 1
+search node: [1, 2, 0, 7, 5, 4, 3, 8, 6]
+f(n): 4.400000
+--------------------------------
+125
+the number of nodes in open-table: 105
+extension of the open-table: 2
+search node: [1, 2, 4, 7, 0, 5, 3, 8, 6]
+f(n): 5.200000
+--------------------------------
+126
+the number of nodes in open-table: 105
+extension of the open-table: 0
+search node: [1, 2, 4, 7, 5, 3, 0, 8, 6]
+f(n): 4.400000
+--------------------------------
+127
+the number of nodes in open-table: 107
+extension of the open-table: 2
+search node: [5, 1, 2, 6, 0, 4, 7, 3, 8]
+f(n): 6.800000
+--------------------------------
+128
+the number of nodes in open-table: 107
+extension of the open-table: 0
+search node: [5, 1, 2, 7, 6, 4, 0, 3, 8]
+f(n): 7.600000
+--------------------------------
+129
+the number of nodes in open-table: 107
+extension of the open-table: 0
+search node: [0, 6, 2, 1, 5, 4, 7, 3, 8]
+f(n): 6.000000
+--------------------------------
+130
+the number of nodes in open-table: 107
+extension of the open-table: 0
+search node: [1, 6, 2, 7, 5, 4, 0, 3, 8]
+f(n): 6.000000
+--------------------------------
+131
+the number of nodes in open-table: 108
+extension of the open-table: 1
+search node: [1, 6, 0, 5, 4, 2, 7, 3, 8]
+f(n): 6.000000
+--------------------------------
+132
+the number of nodes in open-table: 109
+extension of the open-table: 1
+search node: [1, 6, 2, 5, 4, 7, 0, 3, 8]
+f(n): 6.800000
+--------------------------------
+133
+the number of nodes in open-table: 109
+extension of the open-table: 0
+search node: [1, 6, 2, 5, 3, 4, 0, 7, 8]
+f(n): 6.800000
+--------------------------------
+134
+the number of nodes in open-table: 109
+extension of the open-table: 0
+search node: [1, 6, 2, 5, 3, 4, 7, 8, 0]
+f(n): 5.200000
+--------------------------------
+135
+the number of nodes in open-table: 111
+extension of the open-table: 2
+search node: [2, 6, 5, 1, 0, 4, 7, 3, 8]
+f(n): 6.800000
+--------------------------------
+136
+the number of nodes in open-table: 111
+extension of the open-table: 0
+search node: [0, 1, 5, 6, 2, 4, 7, 3, 8]
+f(n): 6.800000
+--------------------------------
+137
+the number of nodes in open-table: 111
+extension of the open-table: 0
+search node: [1, 5, 0, 6, 2, 4, 7, 3, 8]
+f(n): 6.000000
+--------------------------------
+138
+the number of nodes in open-table: 112
+extension of the open-table: 1
+search node: [1, 2, 0, 6, 4, 5, 7, 3, 8]
+f(n): 5.200000
+--------------------------------
+139
+the number of nodes in open-table: 113
+extension of the open-table: 1
+search node: [1, 2, 5, 6, 4, 7, 0, 3, 8]
+f(n): 6.000000
+--------------------------------
+140
+the number of nodes in open-table: 113
+extension of the open-table: 0
+search node: [1, 2, 5, 6, 3, 4, 0, 7, 8]
+f(n): 6.000000
+--------------------------------
+141
+the number of nodes in open-table: 113
+extension of the open-table: 0
+search node: [1, 2, 5, 6, 3, 4, 7, 8, 0]
+f(n): 4.400000
+--------------------------------
+142
+the number of nodes in open-table: 115
+extension of the open-table: 2
+search node: [1, 2, 5, 7, 0, 4, 3, 6, 8]
+f(n): 6.000000
+--------------------------------
+143
+the number of nodes in open-table: 115
+extension of the open-table: 0
+search node: [1, 2, 5, 7, 6, 4, 3, 8, 0]
+f(n): 5.200000
+--------------------------------
+144
+the number of nodes in open-table: 115
+extension of the open-table: 0
+search node: [2, 4, 0, 1, 6, 7, 5, 3, 8]
+f(n): 7.600000
+--------------------------------
+145
+the number of nodes in open-table: 117
+extension of the open-table: 2
+search node: [2, 6, 4, 1, 0, 7, 5, 3, 8]
+f(n): 7.600000
+--------------------------------
+146
+the number of nodes in open-table: 117
+extension of the open-table: 0
+search node: [0, 1, 4, 6, 2, 7, 5, 3, 8]
+f(n): 7.600000
+--------------------------------
+147
+the number of nodes in open-table: 117
+extension of the open-table: 0
+search node: [1, 4, 0, 6, 2, 7, 5, 3, 8]
+f(n): 6.800000
+--------------------------------
+148
+the number of nodes in open-table: 118
+extension of the open-table: 1
+search node: [1, 2, 0, 6, 7, 4, 5, 3, 8]
+f(n): 6.000000
+--------------------------------
+149
+the number of nodes in open-table: 119
+extension of the open-table: 1
+search node: [1, 2, 4, 6, 7, 5, 0, 3, 8]
+f(n): 6.000000
+--------------------------------
+150
+the number of nodes in open-table: 119
+extension of the open-table: 0
+search node: [1, 2, 4, 6, 3, 7, 0, 5, 8]
+f(n): 6.000000
+--------------------------------
+151
+the number of nodes in open-table: 119
+extension of the open-table: 0
+search node: [1, 2, 4, 6, 3, 7, 5, 8, 0]
+f(n): 5.200000
+--------------------------------
+152
+the number of nodes in open-table: 119
+extension of the open-table: 0
+search node: [0, 1, 4, 5, 2, 7, 3, 6, 8]
+f(n): 7.600000
+--------------------------------
+153
+the number of nodes in open-table: 119
+extension of the open-table: 0
+search node: [1, 4, 0, 5, 2, 7, 3, 6, 8]
+f(n): 6.800000
+--------------------------------
+154
+the number of nodes in open-table: 119
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 5, 7, 3, 6, 8]
+f(n): 6.000000
+--------------------------------
+155
+the number of nodes in open-table: 119
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 5, 7, 0, 6, 8]
+f(n): 5.200000
+--------------------------------
+156
+the number of nodes in open-table: 119
+extension of the open-table: 0
+search node: [1, 2, 0, 5, 7, 4, 3, 6, 8]
+f(n): 6.000000
+--------------------------------
+157
+the number of nodes in open-table: 120
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 7, 3, 0, 6, 8]
+f(n): 6.000000
+--------------------------------
+158
+the number of nodes in open-table: 121
+extension of the open-table: 1
+search node: [1, 2, 0, 5, 6, 4, 3, 8, 7]
+f(n): 5.200000
+--------------------------------
+159
+the number of nodes in open-table: 123
+extension of the open-table: 2
+search node: [1, 2, 4, 5, 0, 6, 3, 8, 7]
+f(n): 4.400000
+--------------------------------
+160
+the number of nodes in open-table: 124
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 6, 3, 0, 8, 7]
+f(n): 5.200000
+--------------------------------
+161
+the number of nodes in open-table: 124
+extension of the open-table: 0
+search node: [2, 4, 0, 1, 3, 6, 5, 7, 8]
+f(n): 6.800000
+--------------------------------
+162
+the number of nodes in open-table: 126
+extension of the open-table: 2
+search node: [2, 3, 4, 1, 0, 6, 5, 7, 8]
+f(n): 6.800000
+--------------------------------
+163
+the number of nodes in open-table: 126
+extension of the open-table: 0
+search node: [0, 1, 4, 3, 2, 6, 5, 7, 8]
+f(n): 6.800000
+--------------------------------
+164
+the number of nodes in open-table: 126
+extension of the open-table: 0
+search node: [1, 4, 0, 3, 2, 6, 5, 7, 8]
+f(n): 6.000000
+--------------------------------
+165
+the number of nodes in open-table: 127
+extension of the open-table: 1
+search node: [1, 2, 0, 3, 6, 4, 5, 7, 8]
+f(n): 6.000000
+--------------------------------
+166
+the number of nodes in open-table: 128
+extension of the open-table: 1
+search node: [1, 2, 4, 3, 6, 5, 0, 7, 8]
+f(n): 6.000000
+--------------------------------
+167
+the number of nodes in open-table: 128
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 7, 6, 5, 8, 0]
+f(n): 4.400000
+--------------------------------
+168
+the number of nodes in open-table: 128
+extension of the open-table: 0
+search node: [0, 1, 2, 5, 3, 4, 7, 8, 6]
+f(n): 6.000000
+--------------------------------
+169
+the number of nodes in open-table: 130
+extension of the open-table: 2
+search node: [1, 3, 2, 5, 0, 4, 7, 8, 6]
+f(n): 5.200000
+--------------------------------
+170
+the number of nodes in open-table: 130
+extension of the open-table: 0
+search node: [0, 2, 5, 1, 3, 4, 7, 8, 6]
+f(n): 5.200000
+--------------------------------
+171
+the number of nodes in open-table: 132
+extension of the open-table: 2
+search node: [1, 2, 5, 3, 0, 4, 7, 8, 6]
+f(n): 4.400000
+--------------------------------
+172
+the number of nodes in open-table: 132
+extension of the open-table: 0
+search node: [1, 2, 5, 7, 3, 4, 0, 8, 6]
+f(n): 5.200000
+--------------------------------
+173
+the number of nodes in open-table: 132
+extension of the open-table: 0
+search node: [0, 1, 4, 5, 2, 3, 7, 8, 6]
+f(n): 6.000000
+--------------------------------
+174
+the number of nodes in open-table: 132
+extension of the open-table: 0
+search node: [1, 4, 0, 5, 2, 3, 7, 8, 6]
+f(n): 5.200000
+--------------------------------
+175
+the number of nodes in open-table: 132
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 5, 3, 7, 8, 6]
+f(n): 4.400000
+--------------------------------
+176
+the number of nodes in open-table: 132
+extension of the open-table: 0
+search node: [1, 2, 4, 5, 8, 3, 0, 7, 6]
+f(n): 6.000000
+--------------------------------
+177
+the number of nodes in open-table: 132
+extension of the open-table: 0
+search node: [1, 2, 4, 5, 8, 3, 7, 6, 0]
+f(n): 5.200000
+--------------------------------
+178
+the number of nodes in open-table: 132
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 3, 7, 5, 8, 6]
+f(n): 6.000000
+--------------------------------
+179
+the number of nodes in open-table: 133
+extension of the open-table: 1
+search node: [1, 2, 4, 3, 0, 7, 5, 8, 6]
+f(n): 5.200000
+--------------------------------
+180
+the number of nodes in open-table: 135
+extension of the open-table: 2
+search node: [1, 2, 4, 5, 0, 7, 8, 3, 6]
+f(n): 6.000000
+--------------------------------
+181
+the number of nodes in open-table: 135
+extension of the open-table: 0
+search node: [1, 2, 4, 5, 3, 7, 8, 6, 0]
+f(n): 6.000000
+--------------------------------
+182
+the number of nodes in open-table: 137
+extension of the open-table: 2
+search node: [5, 4, 2, 0, 1, 6, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+183
+the number of nodes in open-table: 138
+extension of the open-table: 1
+search node: [5, 0, 1, 2, 6, 4, 7, 3, 8]
+f(n): 7.000000
+--------------------------------
+184
+the number of nodes in open-table: 139
+extension of the open-table: 1
+search node: [5, 1, 4, 0, 6, 7, 2, 3, 8]
+f(n): 7.800000
+--------------------------------
+185
+the number of nodes in open-table: 140
+extension of the open-table: 1
+search node: [5, 1, 4, 2, 6, 7, 3, 0, 8]
+f(n): 7.800000
+--------------------------------
+186
+the number of nodes in open-table: 141
+extension of the open-table: 1
+search node: [5, 1, 4, 0, 3, 6, 2, 7, 8]
+f(n): 7.000000
+--------------------------------
+187
+the number of nodes in open-table: 143
+extension of the open-table: 2
+search node: [5, 1, 4, 2, 3, 0, 7, 8, 6]
+f(n): 6.200000
+--------------------------------
+188
+the number of nodes in open-table: 144
+extension of the open-table: 1
+search node: [5, 0, 4, 7, 1, 6, 3, 2, 8]
+f(n): 7.000000
+--------------------------------
+189
+the number of nodes in open-table: 145
+extension of the open-table: 1
+search node: [5, 1, 4, 0, 7, 6, 3, 2, 8]
+f(n): 7.000000
+--------------------------------
+190
+the number of nodes in open-table: 146
+extension of the open-table: 1
+search node: [5, 1, 4, 7, 6, 0, 3, 2, 8]
+f(n): 7.800000
+--------------------------------
+191
+the number of nodes in open-table: 148
+extension of the open-table: 2
+search node: [5, 1, 4, 7, 2, 0, 3, 8, 6]
+f(n): 7.000000
+--------------------------------
+192
+the number of nodes in open-table: 150
+extension of the open-table: 2
+search node: [4, 5, 1, 0, 2, 6, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+193
+the number of nodes in open-table: 151
+extension of the open-table: 1
+search node: [4, 2, 5, 0, 1, 6, 7, 3, 8]
+f(n): 5.400000
+--------------------------------
+194
+the number of nodes in open-table: 152
+extension of the open-table: 1
+search node: [4, 2, 5, 1, 6, 0, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+195
+the number of nodes in open-table: 153
+extension of the open-table: 1
+search node: [4, 2, 5, 1, 3, 6, 7, 0, 8]
+f(n): 5.400000
+--------------------------------
+196
+the number of nodes in open-table: 154
+extension of the open-table: 1
+search node: [2, 1, 5, 0, 4, 6, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+197
+the number of nodes in open-table: 156
+extension of the open-table: 2
+search node: [1, 5, 2, 0, 4, 6, 7, 3, 8]
+f(n): 5.400000
+--------------------------------
+198
+the number of nodes in open-table: 157
+extension of the open-table: 1
+search node: [1, 0, 4, 2, 6, 5, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+199
+the number of nodes in open-table: 159
+extension of the open-table: 2
+search node: [1, 4, 2, 0, 6, 5, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+200
+the number of nodes in open-table: 160
+extension of the open-table: 1
+search node: [1, 4, 5, 0, 6, 7, 2, 3, 8]
+f(n): 7.000000
+--------------------------------
+201
+the number of nodes in open-table: 161
+extension of the open-table: 1
+search node: [1, 4, 5, 2, 6, 7, 3, 0, 8]
+f(n): 7.000000
+--------------------------------
+202
+the number of nodes in open-table: 162
+extension of the open-table: 1
+search node: [1, 4, 5, 0, 3, 6, 2, 7, 8]
+f(n): 6.200000
+--------------------------------
+203
+the number of nodes in open-table: 164
+extension of the open-table: 2
+search node: [1, 4, 5, 2, 3, 0, 7, 8, 6]
+f(n): 5.400000
+--------------------------------
+204
+the number of nodes in open-table: 165
+extension of the open-table: 1
+search node: [1, 0, 5, 7, 4, 6, 3, 2, 8]
+f(n): 6.200000
+--------------------------------
+205
+the number of nodes in open-table: 166
+extension of the open-table: 1
+search node: [1, 4, 5, 0, 7, 6, 3, 2, 8]
+f(n): 6.200000
+--------------------------------
+206
+the number of nodes in open-table: 167
+extension of the open-table: 1
+search node: [1, 4, 5, 7, 6, 0, 3, 2, 8]
+f(n): 7.000000
+--------------------------------
+207
+the number of nodes in open-table: 169
+extension of the open-table: 2
+search node: [1, 4, 5, 7, 2, 0, 3, 8, 6]
+f(n): 6.200000
+--------------------------------
+208
+the number of nodes in open-table: 169
+extension of the open-table: 0
+search node: [4, 0, 1, 2, 5, 6, 7, 3, 8]
+f(n): 5.400000
+--------------------------------
+209
+the number of nodes in open-table: 170
+extension of the open-table: 1
+search node: [2, 0, 1, 5, 4, 6, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+210
+the number of nodes in open-table: 171
+extension of the open-table: 1
+search node: [2, 4, 1, 5, 6, 0, 7, 3, 8]
+f(n): 7.000000
+--------------------------------
+211
+the number of nodes in open-table: 172
+extension of the open-table: 1
+search node: [2, 4, 1, 5, 3, 6, 7, 0, 8]
+f(n): 6.200000
+--------------------------------
+212
+the number of nodes in open-table: 173
+extension of the open-table: 1
+search node: [2, 4, 1, 7, 5, 6, 3, 0, 8]
+f(n): 6.200000
+--------------------------------
+213
+the number of nodes in open-table: 174
+extension of the open-table: 1
+search node: [2, 5, 4, 7, 1, 6, 3, 0, 8]
+f(n): 7.000000
+--------------------------------
+214
+the number of nodes in open-table: 175
+extension of the open-table: 1
+search node: [2, 5, 1, 0, 6, 4, 7, 3, 8]
+f(n): 7.000000
+--------------------------------
+215
+the number of nodes in open-table: 176
+extension of the open-table: 1
+search node: [2, 5, 4, 0, 6, 7, 1, 3, 8]
+f(n): 7.800000
+--------------------------------
+216
+the number of nodes in open-table: 177
+extension of the open-table: 1
+search node: [2, 5, 4, 1, 6, 7, 3, 0, 8]
+f(n): 7.800000
+--------------------------------
+217
+the number of nodes in open-table: 178
+extension of the open-table: 1
+search node: [2, 5, 4, 0, 3, 6, 1, 7, 8]
+f(n): 7.000000
+--------------------------------
+218
+the number of nodes in open-table: 180
+extension of the open-table: 2
+search node: [2, 5, 4, 1, 3, 0, 7, 8, 6]
+f(n): 6.200000
+--------------------------------
+219
+the number of nodes in open-table: 181
+extension of the open-table: 1
+search node: [7, 1, 4, 0, 2, 6, 3, 5, 8]
+f(n): 7.000000
+--------------------------------
+220
+the number of nodes in open-table: 183
+extension of the open-table: 2
+search node: [1, 4, 7, 0, 2, 6, 3, 5, 8]
+f(n): 6.200000
+--------------------------------
+221
+the number of nodes in open-table: 184
+extension of the open-table: 1
+search node: [2, 0, 4, 1, 7, 6, 3, 5, 8]
+f(n): 7.000000
+--------------------------------
+222
+the number of nodes in open-table: 185
+extension of the open-table: 1
+search node: [1, 0, 2, 7, 6, 4, 3, 5, 8]
+f(n): 7.000000
+--------------------------------
+223
+the number of nodes in open-table: 187
+extension of the open-table: 2
+search node: [1, 2, 7, 0, 6, 4, 3, 5, 8]
+f(n): 6.200000
+--------------------------------
+224
+the number of nodes in open-table: 188
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 6, 3, 7, 5, 8]
+f(n): 5.400000
+--------------------------------
+225
+the number of nodes in open-table: 189
+extension of the open-table: 1
+search node: [1, 2, 4, 7, 6, 3, 5, 0, 8]
+f(n): 6.200000
+--------------------------------
+226
+the number of nodes in open-table: 190
+extension of the open-table: 1
+search node: [1, 0, 2, 7, 5, 4, 3, 8, 6]
+f(n): 5.400000
+--------------------------------
+227
+the number of nodes in open-table: 192
+extension of the open-table: 2
+search node: [1, 2, 7, 0, 5, 4, 3, 8, 6]
+f(n): 4.600000
+--------------------------------
+228
+the number of nodes in open-table: 192
+extension of the open-table: 0
+search node: [1, 0, 4, 7, 2, 5, 3, 8, 6]
+f(n): 6.200000
+--------------------------------
+229
+the number of nodes in open-table: 193
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 7, 5, 3, 8, 6]
+f(n): 5.400000
+--------------------------------
+230
+the number of nodes in open-table: 194
+extension of the open-table: 1
+search node: [1, 2, 4, 7, 8, 5, 3, 0, 6]
+f(n): 6.200000
+--------------------------------
+231
+the number of nodes in open-table: 195
+extension of the open-table: 1
+search node: [1, 2, 4, 7, 5, 3, 8, 0, 6]
+f(n): 5.400000
+--------------------------------
+232
+the number of nodes in open-table: 196
+extension of the open-table: 1
+search node: [5, 0, 2, 6, 1, 4, 7, 3, 8]
+f(n): 7.000000
+--------------------------------
+233
+the number of nodes in open-table: 197
+extension of the open-table: 1
+search node: [5, 1, 2, 6, 4, 0, 7, 3, 8]
+f(n): 7.000000
+--------------------------------
+234
+the number of nodes in open-table: 198
+extension of the open-table: 1
+search node: [5, 1, 2, 6, 3, 4, 7, 0, 8]
+f(n): 7.000000
+--------------------------------
+235
+the number of nodes in open-table: 199
+extension of the open-table: 1
+search node: [5, 1, 2, 7, 6, 4, 3, 0, 8]
+f(n): 7.800000
+--------------------------------
+236
+the number of nodes in open-table: 200
+extension of the open-table: 1
+search node: [6, 0, 2, 1, 5, 4, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+237
+the number of nodes in open-table: 200
+extension of the open-table: 0
+search node: [1, 6, 2, 7, 5, 4, 3, 0, 8]
+f(n): 6.200000
+--------------------------------
+238
+the number of nodes in open-table: 201
+extension of the open-table: 1
+search node: [1, 0, 6, 5, 4, 2, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+239
+the number of nodes in open-table: 203
+extension of the open-table: 2
+search node: [1, 6, 5, 0, 4, 2, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+240
+the number of nodes in open-table: 204
+extension of the open-table: 1
+search node: [1, 6, 2, 0, 4, 7, 5, 3, 8]
+f(n): 7.000000
+--------------------------------
+241
+the number of nodes in open-table: 205
+extension of the open-table: 1
+search node: [1, 6, 2, 5, 4, 7, 3, 0, 8]
+f(n): 7.000000
+--------------------------------
+242
+the number of nodes in open-table: 206
+extension of the open-table: 1
+search node: [1, 6, 2, 0, 3, 4, 5, 7, 8]
+f(n): 7.000000
+--------------------------------
+243
+the number of nodes in open-table: 208
+extension of the open-table: 2
+search node: [1, 6, 2, 5, 3, 0, 7, 8, 4]
+f(n): 5.400000
+--------------------------------
+244
+the number of nodes in open-table: 209
+extension of the open-table: 1
+search node: [2, 6, 5, 0, 1, 4, 7, 3, 8]
+f(n): 7.000000
+--------------------------------
+245
+the number of nodes in open-table: 210
+extension of the open-table: 1
+search node: [2, 6, 5, 1, 4, 0, 7, 3, 8]
+f(n): 7.000000
+--------------------------------
+246
+the number of nodes in open-table: 211
+extension of the open-table: 1
+search node: [2, 6, 5, 1, 3, 4, 7, 0, 8]
+f(n): 7.000000
+--------------------------------
+247
+the number of nodes in open-table: 212
+extension of the open-table: 1
+search node: [6, 1, 5, 0, 2, 4, 7, 3, 8]
+f(n): 7.000000
+--------------------------------
+248
+the number of nodes in open-table: 214
+extension of the open-table: 2
+search node: [1, 5, 6, 0, 2, 4, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+249
+the number of nodes in open-table: 214
+extension of the open-table: 0
+search node: [1, 0, 2, 6, 4, 5, 7, 3, 8]
+f(n): 6.200000
+--------------------------------
+250
+the number of nodes in open-table: 216
+extension of the open-table: 2
+search node: [1, 2, 6, 0, 4, 5, 7, 3, 8]
+f(n): 5.400000
+--------------------------------
+251
+the number of nodes in open-table: 217
+extension of the open-table: 1
+search node: [1, 2, 5, 0, 4, 7, 6, 3, 8]
+f(n): 6.200000
+--------------------------------
+252
+the number of nodes in open-table: 218
+extension of the open-table: 1
+search node: [1, 2, 5, 6, 4, 7, 3, 0, 8]
+f(n): 6.200000
+--------------------------------
+253
+the number of nodes in open-table: 219
+extension of the open-table: 1
+search node: [1, 2, 5, 0, 3, 4, 6, 7, 8]
+f(n): 6.200000
+--------------------------------
+254
+the number of nodes in open-table: 221
+extension of the open-table: 2
+search node: [1, 2, 5, 6, 3, 0, 7, 8, 4]
+f(n): 4.600000
+--------------------------------
+255
+the number of nodes in open-table: 222
+extension of the open-table: 1
+search node: [1, 0, 5, 7, 2, 4, 3, 6, 8]
+f(n): 7.000000
+--------------------------------
+256
+the number of nodes in open-table: 223
+extension of the open-table: 1
+search node: [1, 2, 5, 0, 7, 4, 3, 6, 8]
+f(n): 6.200000
+--------------------------------
+257
+the number of nodes in open-table: 224
+extension of the open-table: 1
+search node: [1, 2, 5, 7, 4, 0, 3, 6, 8]
+f(n): 6.200000
+--------------------------------
+258
+the number of nodes in open-table: 226
+extension of the open-table: 2
+search node: [1, 2, 5, 7, 6, 0, 3, 8, 4]
+f(n): 5.400000
+--------------------------------
+259
+the number of nodes in open-table: 227
+extension of the open-table: 1
+search node: [2, 4, 1, 0, 6, 7, 5, 3, 8]
+f(n): 7.800000
+--------------------------------
+260
+the number of nodes in open-table: 228
+extension of the open-table: 1
+search node: [2, 6, 4, 0, 1, 7, 5, 3, 8]
+f(n): 7.800000
+--------------------------------
+261
+the number of nodes in open-table: 229
+extension of the open-table: 1
+search node: [2, 6, 4, 1, 7, 0, 5, 3, 8]
+f(n): 7.800000
+--------------------------------
+262
+the number of nodes in open-table: 230
+extension of the open-table: 1
+search node: [2, 6, 4, 1, 3, 7, 5, 0, 8]
+f(n): 7.800000
+--------------------------------
+263
+the number of nodes in open-table: 231
+extension of the open-table: 1
+search node: [6, 1, 4, 0, 2, 7, 5, 3, 8]
+f(n): 7.800000
+--------------------------------
+264
+the number of nodes in open-table: 233
+extension of the open-table: 2
+search node: [1, 4, 6, 0, 2, 7, 5, 3, 8]
+f(n): 7.000000
+--------------------------------
+265
+the number of nodes in open-table: 234
+extension of the open-table: 1
+search node: [1, 0, 2, 6, 7, 4, 5, 3, 8]
+f(n): 7.000000
+--------------------------------
+266
+the number of nodes in open-table: 236
+extension of the open-table: 2
+search node: [1, 2, 6, 0, 7, 4, 5, 3, 8]
+f(n): 6.200000
+--------------------------------
+267
+the number of nodes in open-table: 237
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 7, 5, 6, 3, 8]
+f(n): 6.200000
+--------------------------------
+268
+the number of nodes in open-table: 238
+extension of the open-table: 1
+search node: [1, 2, 4, 6, 7, 5, 3, 0, 8]
+f(n): 6.200000
+--------------------------------
+269
+the number of nodes in open-table: 239
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 3, 7, 6, 5, 8]
+f(n): 6.200000
+--------------------------------
+270
+the number of nodes in open-table: 241
+extension of the open-table: 2
+search node: [1, 2, 4, 6, 3, 0, 5, 8, 7]
+f(n): 5.400000
+--------------------------------
+271
+the number of nodes in open-table: 241
+extension of the open-table: 0
+search node: [5, 1, 4, 0, 2, 7, 3, 6, 8]
+f(n): 7.800000
+--------------------------------
+272
+the number of nodes in open-table: 242
+extension of the open-table: 1
+search node: [1, 4, 5, 0, 2, 7, 3, 6, 8]
+f(n): 7.000000
+--------------------------------
+273
+the number of nodes in open-table: 242
+extension of the open-table: 0
+search node: [2, 0, 4, 1, 5, 7, 3, 6, 8]
+f(n): 7.000000
+--------------------------------
+274
+the number of nodes in open-table: 242
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 5, 7, 6, 0, 8]
+f(n): 5.400000
+--------------------------------
+275
+the number of nodes in open-table: 243
+extension of the open-table: 1
+search node: [1, 0, 2, 5, 7, 4, 3, 6, 8]
+f(n): 7.000000
+--------------------------------
+276
+the number of nodes in open-table: 243
+extension of the open-table: 0
+search node: [1, 2, 4, 0, 7, 3, 5, 6, 8]
+f(n): 6.200000
+--------------------------------
+277
+the number of nodes in open-table: 244
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 7, 3, 6, 0, 8]
+f(n): 6.200000
+--------------------------------
+278
+the number of nodes in open-table: 245
+extension of the open-table: 1
+search node: [1, 0, 2, 5, 6, 4, 3, 8, 7]
+f(n): 6.200000
+--------------------------------
+279
+the number of nodes in open-table: 247
+extension of the open-table: 2
+search node: [1, 2, 5, 0, 6, 4, 3, 8, 7]
+f(n): 5.400000
+--------------------------------
+280
+the number of nodes in open-table: 248
+extension of the open-table: 1
+search node: [1, 0, 4, 5, 2, 6, 3, 8, 7]
+f(n): 5.400000
+--------------------------------
+281
+the number of nodes in open-table: 249
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 5, 6, 3, 8, 7]
+f(n): 3.800000
+--------------------------------
+282
+the number of nodes in open-table: 250
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 8, 6, 3, 0, 7]
+f(n): 5.400000
+--------------------------------
+283
+the number of nodes in open-table: 250
+extension of the open-table: 0
+search node: [1, 2, 4, 0, 6, 3, 5, 8, 7]
+f(n): 5.400000
+--------------------------------
+284
+the number of nodes in open-table: 251
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 6, 3, 8, 0, 7]
+f(n): 6.200000
+--------------------------------
+285
+the number of nodes in open-table: 252
+extension of the open-table: 1
+search node: [2, 4, 1, 0, 3, 6, 5, 7, 8]
+f(n): 7.000000
+--------------------------------
+286
+the number of nodes in open-table: 253
+extension of the open-table: 1
+search node: [2, 3, 4, 0, 1, 6, 5, 7, 8]
+f(n): 7.000000
+--------------------------------
+287
+the number of nodes in open-table: 254
+extension of the open-table: 1
+search node: [2, 3, 4, 1, 6, 0, 5, 7, 8]
+f(n): 7.800000
+--------------------------------
+288
+the number of nodes in open-table: 255
+extension of the open-table: 1
+search node: [2, 3, 4, 1, 7, 6, 5, 0, 8]
+f(n): 7.000000
+--------------------------------
+289
+the number of nodes in open-table: 256
+extension of the open-table: 1
+search node: [3, 1, 4, 0, 2, 6, 5, 7, 8]
+f(n): 7.000000
+--------------------------------
+290
+the number of nodes in open-table: 258
+extension of the open-table: 2
+search node: [1, 4, 3, 0, 2, 6, 5, 7, 8]
+f(n): 5.400000
+--------------------------------
+291
+the number of nodes in open-table: 258
+extension of the open-table: 0
+search node: [1, 0, 2, 3, 6, 4, 5, 7, 8]
+f(n): 7.000000
+--------------------------------
+292
+the number of nodes in open-table: 260
+extension of the open-table: 2
+search node: [1, 2, 3, 0, 6, 4, 5, 7, 8]
+f(n): 5.400000
+--------------------------------
+293
+the number of nodes in open-table: 260
+extension of the open-table: 0
+search node: [1, 2, 4, 0, 6, 5, 3, 7, 8]
+f(n): 6.200000
+--------------------------------
+294
+the number of nodes in open-table: 261
+extension of the open-table: 1
+search node: [1, 2, 4, 3, 6, 5, 7, 0, 8]
+f(n): 5.400000
+--------------------------------
+295
+the number of nodes in open-table: 261
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 7, 0, 5, 8, 6]
+f(n): 5.400000
+--------------------------------
+296
+the number of nodes in open-table: 262
+extension of the open-table: 1
+search node: [5, 1, 2, 0, 3, 4, 7, 8, 6]
+f(n): 6.200000
+--------------------------------
+297
+the number of nodes in open-table: 263
+extension of the open-table: 1
+search node: [1, 3, 2, 0, 5, 4, 7, 8, 6]
+f(n): 4.600000
+--------------------------------
+298
+the number of nodes in open-table: 264
+extension of the open-table: 1
+search node: [1, 3, 2, 5, 4, 0, 7, 8, 6]
+f(n): 5.400000
+--------------------------------
+299
+the number of nodes in open-table: 265
+extension of the open-table: 1
+search node: [1, 3, 2, 5, 8, 4, 7, 0, 6]
+f(n): 6.200000
+--------------------------------
+300
+the number of nodes in open-table: 265
+extension of the open-table: 0
+search node: [2, 0, 5, 1, 3, 4, 7, 8, 6]
+f(n): 6.200000
+--------------------------------
+301
+the number of nodes in open-table: 266
+extension of the open-table: 1
+search node: [1, 0, 5, 3, 2, 4, 7, 8, 6]
+f(n): 5.400000
+--------------------------------
+302
+the number of nodes in open-table: 267
+extension of the open-table: 1
+search node: [1, 2, 5, 3, 4, 0, 7, 8, 6]
+f(n): 4.600000
+--------------------------------
+303
+the number of nodes in open-table: 268
+extension of the open-table: 1
+search node: [1, 2, 5, 3, 8, 4, 7, 0, 6]
+f(n): 5.400000
+--------------------------------
+304
+the number of nodes in open-table: 269
+extension of the open-table: 1
+search node: [1, 2, 5, 7, 3, 4, 8, 0, 6]
+f(n): 6.200000
+--------------------------------
+305
+the number of nodes in open-table: 268
+extension of the open-table: -1
+search node: [5, 1, 4, 0, 2, 3, 7, 8, 6]
+f(n): 6.200000
+--------------------------------
+306
+the number of nodes in open-table: 268
+extension of the open-table: 0
+search node: [1, 4, 5, 0, 2, 3, 7, 8, 6]
+f(n): 5.400000
+--------------------------------
+307
+the number of nodes in open-table: 268
+extension of the open-table: 0
+search node: [2, 0, 4, 1, 5, 3, 7, 8, 6]
+f(n): 5.400000
+--------------------------------
+308
+the number of nodes in open-table: 269
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 8, 3, 5, 7, 6]
+f(n): 6.200000
+--------------------------------
+309
+the number of nodes in open-table: 271
+extension of the open-table: 2
+search node: [1, 2, 4, 5, 8, 0, 7, 6, 3]
+f(n): 5.400000
+--------------------------------
+310
+the number of nodes in open-table: 272
+extension of the open-table: 1
+search node: [2, 0, 4, 1, 3, 7, 5, 8, 6]
+f(n): 7.000000
+--------------------------------
+311
+the number of nodes in open-table: 273
+extension of the open-table: 1
+search node: [1, 0, 4, 3, 2, 7, 5, 8, 6]
+f(n): 6.200000
+--------------------------------
+312
+the number of nodes in open-table: 274
+extension of the open-table: 1
+search node: [1, 2, 4, 3, 8, 7, 5, 0, 6]
+f(n): 6.200000
+--------------------------------
+313
+the number of nodes in open-table: 275
+extension of the open-table: 1
+search node: [1, 0, 4, 5, 2, 7, 8, 3, 6]
+f(n): 7.000000
+--------------------------------
+314
+the number of nodes in open-table: 276
+extension of the open-table: 1
+search node: [1, 2, 4, 0, 5, 7, 8, 3, 6]
+f(n): 5.400000
+--------------------------------
+315
+the number of nodes in open-table: 277
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 7, 0, 8, 3, 6]
+f(n): 6.200000
+--------------------------------
+316
+the number of nodes in open-table: 278
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 3, 0, 8, 6, 7]
+f(n): 6.200000
+--------------------------------
+317
+the number of nodes in open-table: 278
+extension of the open-table: 0
+search node: [0, 4, 2, 5, 1, 6, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+318
+the number of nodes in open-table: 280
+extension of the open-table: 2
+search node: [5, 4, 2, 1, 0, 6, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+319
+the number of nodes in open-table: 280
+extension of the open-table: 0
+search node: [5, 4, 2, 7, 1, 6, 0, 3, 8]
+f(n): 7.200000
+--------------------------------
+320
+the number of nodes in open-table: 279
+extension of the open-table: -1
+search node: [0, 5, 1, 2, 6, 4, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+321
+the number of nodes in open-table: 281
+extension of the open-table: 2
+search node: [5, 6, 1, 2, 0, 4, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+322
+the number of nodes in open-table: 281
+extension of the open-table: 0
+search node: [0, 1, 4, 5, 6, 7, 2, 3, 8]
+f(n): 8.000000
+--------------------------------
+323
+the number of nodes in open-table: 283
+extension of the open-table: 2
+search node: [5, 1, 4, 6, 0, 7, 2, 3, 8]
+f(n): 8.000000
+--------------------------------
+324
+the number of nodes in open-table: 284
+extension of the open-table: 1
+search node: [5, 1, 4, 2, 0, 7, 3, 6, 8]
+f(n): 8.000000
+--------------------------------
+325
+the number of nodes in open-table: 284
+extension of the open-table: 0
+search node: [5, 1, 4, 2, 6, 7, 3, 8, 0]
+f(n): 7.200000
+--------------------------------
+326
+the number of nodes in open-table: 284
+extension of the open-table: 0
+search node: [0, 1, 4, 5, 3, 6, 2, 7, 8]
+f(n): 7.200000
+--------------------------------
+327
+the number of nodes in open-table: 286
+extension of the open-table: 2
+search node: [5, 1, 4, 3, 0, 6, 2, 7, 8]
+f(n): 7.200000
+--------------------------------
+328
+the number of nodes in open-table: 286
+extension of the open-table: 0
+search node: [5, 1, 0, 2, 3, 4, 7, 8, 6]
+f(n): 6.400000
+--------------------------------
+329
+the number of nodes in open-table: 287
+extension of the open-table: 1
+search node: [5, 1, 4, 2, 0, 3, 7, 8, 6]
+f(n): 6.400000
+--------------------------------
+330
+the number of nodes in open-table: 288
+extension of the open-table: 1
+search node: [5, 1, 4, 2, 3, 7, 0, 8, 6]
+f(n): 7.200000
+--------------------------------
+331
+the number of nodes in open-table: 288
+extension of the open-table: 0
+search node: [0, 5, 4, 7, 1, 6, 3, 2, 8]
+f(n): 7.200000
+--------------------------------
+332
+the number of nodes in open-table: 288
+extension of the open-table: 0
+search node: [5, 4, 0, 7, 1, 6, 3, 2, 8]
+f(n): 7.200000
+--------------------------------
+333
+the number of nodes in open-table: 288
+extension of the open-table: 0
+search node: [0, 1, 4, 5, 7, 6, 3, 2, 8]
+f(n): 7.200000
+--------------------------------
+334
+the number of nodes in open-table: 287
+extension of the open-table: -1
+search node: [5, 1, 4, 3, 7, 6, 0, 2, 8]
+f(n): 7.200000
+--------------------------------
+335
+the number of nodes in open-table: 288
+extension of the open-table: 1
+search node: [5, 1, 0, 7, 6, 4, 3, 2, 8]
+f(n): 8.000000
+--------------------------------
+336
+the number of nodes in open-table: 289
+extension of the open-table: 1
+search node: [5, 1, 4, 7, 6, 3, 0, 2, 8]
+f(n): 8.000000
+--------------------------------
+337
+the number of nodes in open-table: 290
+extension of the open-table: 1
+search node: [5, 1, 0, 7, 2, 4, 3, 8, 6]
+f(n): 7.200000
+--------------------------------
+338
+the number of nodes in open-table: 292
+extension of the open-table: 2
+search node: [5, 1, 4, 7, 0, 2, 3, 8, 6]
+f(n): 7.200000
+--------------------------------
+339
+the number of nodes in open-table: 292
+extension of the open-table: 0
+search node: [5, 1, 4, 7, 2, 3, 0, 8, 6]
+f(n): 7.200000
+--------------------------------
+340
+the number of nodes in open-table: 292
+extension of the open-table: 0
+search node: [0, 5, 1, 4, 2, 6, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+341
+the number of nodes in open-table: 293
+extension of the open-table: 1
+search node: [4, 5, 1, 2, 0, 6, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+342
+the number of nodes in open-table: 293
+extension of the open-table: 0
+search node: [4, 5, 1, 7, 2, 6, 0, 3, 8]
+f(n): 7.200000
+--------------------------------
+343
+the number of nodes in open-table: 293
+extension of the open-table: 0
+search node: [0, 2, 5, 4, 1, 6, 7, 3, 8]
+f(n): 4.800000
+--------------------------------
+344
+the number of nodes in open-table: 293
+extension of the open-table: 0
+search node: [4, 2, 5, 7, 1, 6, 0, 3, 8]
+f(n): 6.400000
+--------------------------------
+345
+the number of nodes in open-table: 294
+extension of the open-table: 1
+search node: [4, 2, 0, 1, 6, 5, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+346
+the number of nodes in open-table: 295
+extension of the open-table: 1
+search node: [4, 2, 5, 1, 6, 7, 0, 3, 8]
+f(n): 7.200000
+--------------------------------
+347
+the number of nodes in open-table: 295
+extension of the open-table: 0
+search node: [4, 2, 5, 1, 3, 6, 0, 7, 8]
+f(n): 6.400000
+--------------------------------
+348
+the number of nodes in open-table: 295
+extension of the open-table: 0
+search node: [4, 2, 5, 1, 3, 6, 7, 8, 0]
+f(n): 4.800000
+--------------------------------
+349
+the number of nodes in open-table: 296
+extension of the open-table: 1
+search node: [2, 1, 5, 4, 0, 6, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+350
+the number of nodes in open-table: 296
+extension of the open-table: 0
+search node: [2, 1, 5, 7, 4, 6, 0, 3, 8]
+f(n): 7.200000
+--------------------------------
+351
+the number of nodes in open-table: 295
+extension of the open-table: -1
+search node: [0, 5, 2, 1, 4, 6, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+352
+the number of nodes in open-table: 297
+extension of the open-table: 2
+search node: [1, 5, 2, 4, 0, 6, 7, 3, 8]
+f(n): 4.800000
+--------------------------------
+353
+the number of nodes in open-table: 297
+extension of the open-table: 0
+search node: [1, 5, 2, 7, 4, 6, 0, 3, 8]
+f(n): 6.400000
+--------------------------------
+354
+the number of nodes in open-table: 297
+extension of the open-table: 0
+search node: [0, 1, 4, 2, 6, 5, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+355
+the number of nodes in open-table: 299
+extension of the open-table: 2
+search node: [1, 6, 4, 2, 0, 5, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+356
+the number of nodes in open-table: 298
+extension of the open-table: -1
+search node: [0, 4, 2, 1, 6, 5, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+357
+the number of nodes in open-table: 299
+extension of the open-table: 1
+search node: [1, 4, 2, 6, 0, 5, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+358
+the number of nodes in open-table: 299
+extension of the open-table: 0
+search node: [1, 4, 2, 7, 6, 5, 0, 3, 8]
+f(n): 7.200000
+--------------------------------
+359
+the number of nodes in open-table: 299
+extension of the open-table: 0
+search node: [0, 4, 5, 1, 6, 7, 2, 3, 8]
+f(n): 8.000000
+--------------------------------
+360
+the number of nodes in open-table: 301
+extension of the open-table: 2
+search node: [1, 4, 5, 6, 0, 7, 2, 3, 8]
+f(n): 7.200000
+--------------------------------
+361
+the number of nodes in open-table: 302
+extension of the open-table: 1
+search node: [1, 4, 5, 2, 0, 7, 3, 6, 8]
+f(n): 7.200000
+--------------------------------
+362
+the number of nodes in open-table: 302
+extension of the open-table: 0
+search node: [1, 4, 5, 2, 6, 7, 3, 8, 0]
+f(n): 6.400000
+--------------------------------
+363
+the number of nodes in open-table: 302
+extension of the open-table: 0
+search node: [0, 4, 5, 1, 3, 6, 2, 7, 8]
+f(n): 7.200000
+--------------------------------
+364
+the number of nodes in open-table: 304
+extension of the open-table: 2
+search node: [1, 4, 5, 3, 0, 6, 2, 7, 8]
+f(n): 6.400000
+--------------------------------
+365
+the number of nodes in open-table: 305
+extension of the open-table: 1
+search node: [1, 4, 0, 2, 3, 5, 7, 8, 6]
+f(n): 5.600000
+--------------------------------
+366
+the number of nodes in open-table: 306
+extension of the open-table: 1
+search node: [1, 4, 5, 2, 0, 3, 7, 8, 6]
+f(n): 5.600000
+--------------------------------
+367
+the number of nodes in open-table: 307
+extension of the open-table: 1
+search node: [1, 4, 5, 2, 3, 7, 0, 8, 6]
+f(n): 6.400000
+--------------------------------
+368
+the number of nodes in open-table: 307
+extension of the open-table: 0
+search node: [0, 1, 5, 7, 4, 6, 3, 2, 8]
+f(n): 7.200000
+--------------------------------
+369
+the number of nodes in open-table: 307
+extension of the open-table: 0
+search node: [1, 5, 0, 7, 4, 6, 3, 2, 8]
+f(n): 6.400000
+--------------------------------
+370
+the number of nodes in open-table: 307
+extension of the open-table: 0
+search node: [0, 4, 5, 1, 7, 6, 3, 2, 8]
+f(n): 7.200000
+--------------------------------
+371
+the number of nodes in open-table: 306
+extension of the open-table: -1
+search node: [1, 4, 5, 3, 7, 6, 0, 2, 8]
+f(n): 6.400000
+--------------------------------
+372
+the number of nodes in open-table: 307
+extension of the open-table: 1
+search node: [1, 4, 0, 7, 6, 5, 3, 2, 8]
+f(n): 7.200000
+--------------------------------
+373
+the number of nodes in open-table: 308
+extension of the open-table: 1
+search node: [1, 4, 5, 7, 6, 3, 0, 2, 8]
+f(n): 7.200000
+--------------------------------
+374
+the number of nodes in open-table: 308
+extension of the open-table: 0
+search node: [1, 4, 0, 7, 2, 5, 3, 8, 6]
+f(n): 6.400000
+--------------------------------
+375
+the number of nodes in open-table: 310
+extension of the open-table: 2
+search node: [1, 4, 5, 7, 0, 2, 3, 8, 6]
+f(n): 6.400000
+--------------------------------
+376
+the number of nodes in open-table: 310
+extension of the open-table: 0
+search node: [1, 4, 5, 7, 2, 3, 0, 8, 6]
+f(n): 6.400000
+--------------------------------
+377
+the number of nodes in open-table: 310
+extension of the open-table: 0
+search node: [4, 1, 0, 2, 5, 6, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+378
+the number of nodes in open-table: 310
+extension of the open-table: 0
+search node: [0, 2, 1, 5, 4, 6, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+379
+the number of nodes in open-table: 309
+extension of the open-table: -1
+search node: [2, 1, 0, 5, 4, 6, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+380
+the number of nodes in open-table: 310
+extension of the open-table: 1
+search node: [2, 4, 0, 5, 6, 1, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+381
+the number of nodes in open-table: 310
+extension of the open-table: 0
+search node: [2, 4, 1, 5, 6, 7, 0, 3, 8]
+f(n): 8.000000
+--------------------------------
+382
+the number of nodes in open-table: 309
+extension of the open-table: -1
+search node: [2, 4, 1, 5, 3, 6, 0, 7, 8]
+f(n): 7.200000
+--------------------------------
+383
+the number of nodes in open-table: 309
+extension of the open-table: 0
+search node: [2, 4, 1, 5, 3, 6, 7, 8, 0]
+f(n): 5.600000
+--------------------------------
+384
+the number of nodes in open-table: 311
+extension of the open-table: 2
+search node: [2, 4, 1, 7, 0, 6, 3, 5, 8]
+f(n): 7.200000
+--------------------------------
+385
+the number of nodes in open-table: 311
+extension of the open-table: 0
+search node: [2, 4, 1, 7, 5, 6, 3, 8, 0]
+f(n): 5.600000
+--------------------------------
+386
+the number of nodes in open-table: 313
+extension of the open-table: 2
+search node: [2, 5, 4, 7, 0, 6, 3, 1, 8]
+f(n): 7.200000
+--------------------------------
+387
+the number of nodes in open-table: 313
+extension of the open-table: 0
+search node: [2, 5, 4, 7, 1, 6, 3, 8, 0]
+f(n): 6.400000
+--------------------------------
+388
+the number of nodes in open-table: 315
+extension of the open-table: 2
+search node: [2, 5, 1, 6, 0, 4, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+389
+the number of nodes in open-table: 315
+extension of the open-table: 0
+search node: [2, 5, 1, 7, 6, 4, 0, 3, 8]
+f(n): 8.000000
+--------------------------------
+390
+the number of nodes in open-table: 315
+extension of the open-table: 0
+search node: [0, 5, 4, 2, 6, 7, 1, 3, 8]
+f(n): 8.000000
+--------------------------------
+391
+the number of nodes in open-table: 317
+extension of the open-table: 2
+search node: [2, 5, 4, 6, 0, 7, 1, 3, 8]
+f(n): 8.000000
+--------------------------------
+392
+the number of nodes in open-table: 318
+extension of the open-table: 1
+search node: [2, 5, 4, 1, 0, 7, 3, 6, 8]
+f(n): 8.000000
+--------------------------------
+393
+the number of nodes in open-table: 318
+extension of the open-table: 0
+search node: [2, 5, 4, 1, 6, 7, 3, 8, 0]
+f(n): 7.200000
+--------------------------------
+394
+the number of nodes in open-table: 318
+extension of the open-table: 0
+search node: [0, 5, 4, 2, 3, 6, 1, 7, 8]
+f(n): 7.200000
+--------------------------------
+395
+the number of nodes in open-table: 320
+extension of the open-table: 2
+search node: [2, 5, 4, 3, 0, 6, 1, 7, 8]
+f(n): 7.200000
+--------------------------------
+396
+the number of nodes in open-table: 320
+extension of the open-table: 0
+search node: [2, 5, 0, 1, 3, 4, 7, 8, 6]
+f(n): 6.400000
+--------------------------------
+397
+the number of nodes in open-table: 321
+extension of the open-table: 1
+search node: [2, 5, 4, 1, 0, 3, 7, 8, 6]
+f(n): 6.400000
+--------------------------------
+398
+the number of nodes in open-table: 322
+extension of the open-table: 1
+search node: [2, 5, 4, 1, 3, 7, 0, 8, 6]
+f(n): 7.200000
+--------------------------------
+399
+the number of nodes in open-table: 324
+extension of the open-table: 2
+search node: [7, 1, 4, 2, 0, 6, 3, 5, 8]
+f(n): 7.200000
+--------------------------------
+400
+the number of nodes in open-table: 324
+extension of the open-table: 0
+search node: [7, 1, 4, 3, 2, 6, 0, 5, 8]
+f(n): 7.200000
+--------------------------------
+401
+the number of nodes in open-table: 324
+extension of the open-table: 0
+search node: [0, 4, 7, 1, 2, 6, 3, 5, 8]
+f(n): 7.200000
+--------------------------------
+402
+the number of nodes in open-table: 326
+extension of the open-table: 2
+search node: [1, 4, 7, 2, 0, 6, 3, 5, 8]
+f(n): 6.400000
+--------------------------------
+403
+the number of nodes in open-table: 326
+extension of the open-table: 0
+search node: [1, 4, 7, 3, 2, 6, 0, 5, 8]
+f(n): 6.400000
+--------------------------------
+404
+the number of nodes in open-table: 325
+extension of the open-table: -1
+search node: [2, 4, 0, 1, 7, 6, 3, 5, 8]
+f(n): 7.200000
+--------------------------------
+405
+the number of nodes in open-table: 327
+extension of the open-table: 2
+search node: [2, 7, 4, 1, 0, 6, 3, 5, 8]
+f(n): 7.200000
+--------------------------------
+406
+the number of nodes in open-table: 327
+extension of the open-table: 0
+search node: [0, 1, 2, 7, 6, 4, 3, 5, 8]
+f(n): 8.000000
+--------------------------------
+407
+the number of nodes in open-table: 328
+extension of the open-table: 1
+search node: [1, 6, 2, 7, 0, 4, 3, 5, 8]
+f(n): 7.200000
+--------------------------------
+408
+the number of nodes in open-table: 328
+extension of the open-table: 0
+search node: [0, 2, 7, 1, 6, 4, 3, 5, 8]
+f(n): 7.200000
+--------------------------------
+409
+the number of nodes in open-table: 330
+extension of the open-table: 2
+search node: [1, 2, 7, 6, 0, 4, 3, 5, 8]
+f(n): 6.400000
+--------------------------------
+410
+the number of nodes in open-table: 330
+extension of the open-table: 0
+search node: [1, 2, 7, 3, 6, 4, 0, 5, 8]
+f(n): 6.400000
+--------------------------------
+411
+the number of nodes in open-table: 330
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 6, 3, 7, 5, 8]
+f(n): 6.400000
+--------------------------------
+412
+the number of nodes in open-table: 332
+extension of the open-table: 2
+search node: [1, 2, 4, 6, 0, 3, 7, 5, 8]
+f(n): 5.600000
+--------------------------------
+413
+the number of nodes in open-table: 333
+extension of the open-table: 1
+search node: [1, 2, 4, 7, 0, 3, 5, 6, 8]
+f(n): 6.400000
+--------------------------------
+414
+the number of nodes in open-table: 333
+extension of the open-table: 0
+search node: [1, 2, 4, 7, 6, 3, 5, 8, 0]
+f(n): 5.600000
+--------------------------------
+415
+the number of nodes in open-table: 333
+extension of the open-table: 0
+search node: [0, 1, 2, 7, 5, 4, 3, 8, 6]
+f(n): 6.400000
+--------------------------------
+416
+the number of nodes in open-table: 335
+extension of the open-table: 2
+search node: [1, 5, 2, 7, 0, 4, 3, 8, 6]
+f(n): 6.400000
+--------------------------------
+417
+the number of nodes in open-table: 335
+extension of the open-table: 0
+search node: [0, 2, 7, 1, 5, 4, 3, 8, 6]
+f(n): 5.600000
+--------------------------------
+418
+the number of nodes in open-table: 337
+extension of the open-table: 2
+search node: [1, 2, 7, 5, 0, 4, 3, 8, 6]
+f(n): 5.600000
+--------------------------------
+419
+the number of nodes in open-table: 337
+extension of the open-table: 0
+search node: [1, 2, 7, 3, 5, 4, 0, 8, 6]
+f(n): 4.800000
+--------------------------------
+420
+the number of nodes in open-table: 337
+extension of the open-table: 0
+search node: [0, 1, 4, 7, 2, 5, 3, 8, 6]
+f(n): 7.200000
+--------------------------------
+421
+the number of nodes in open-table: 337
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 7, 5, 3, 8, 6]
+f(n): 6.400000
+--------------------------------
+422
+the number of nodes in open-table: 337
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 7, 5, 0, 8, 6]
+f(n): 5.600000
+--------------------------------
+423
+the number of nodes in open-table: 337
+extension of the open-table: 0
+search node: [1, 2, 4, 7, 8, 5, 0, 3, 6]
+f(n): 6.400000
+--------------------------------
+424
+the number of nodes in open-table: 337
+extension of the open-table: 0
+search node: [1, 2, 4, 7, 8, 5, 3, 6, 0]
+f(n): 6.400000
+--------------------------------
+425
+the number of nodes in open-table: 339
+extension of the open-table: 2
+search node: [1, 2, 4, 7, 0, 3, 8, 5, 6]
+f(n): 6.400000
+--------------------------------
+426
+the number of nodes in open-table: 339
+extension of the open-table: 0
+search node: [1, 2, 4, 7, 5, 3, 8, 6, 0]
+f(n): 5.600000
+--------------------------------
+427
+the number of nodes in open-table: 339
+extension of the open-table: 0
+search node: [0, 5, 2, 6, 1, 4, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+428
+the number of nodes in open-table: 339
+extension of the open-table: 0
+search node: [5, 2, 0, 6, 1, 4, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+429
+the number of nodes in open-table: 340
+extension of the open-table: 1
+search node: [5, 1, 0, 6, 4, 2, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+430
+the number of nodes in open-table: 341
+extension of the open-table: 1
+search node: [5, 1, 2, 6, 4, 7, 0, 3, 8]
+f(n): 8.000000
+--------------------------------
+431
+the number of nodes in open-table: 341
+extension of the open-table: 0
+search node: [5, 1, 2, 6, 3, 4, 0, 7, 8]
+f(n): 8.000000
+--------------------------------
+432
+the number of nodes in open-table: 341
+extension of the open-table: 0
+search node: [5, 1, 2, 6, 3, 4, 7, 8, 0]
+f(n): 6.400000
+--------------------------------
+433
+the number of nodes in open-table: 343
+extension of the open-table: 2
+search node: [5, 1, 2, 7, 0, 4, 3, 6, 8]
+f(n): 8.000000
+--------------------------------
+434
+the number of nodes in open-table: 343
+extension of the open-table: 0
+search node: [5, 1, 2, 7, 6, 4, 3, 8, 0]
+f(n): 7.200000
+--------------------------------
+435
+the number of nodes in open-table: 343
+extension of the open-table: 0
+search node: [6, 2, 0, 1, 5, 4, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+436
+the number of nodes in open-table: 344
+extension of the open-table: 1
+search node: [6, 5, 2, 1, 0, 4, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+437
+the number of nodes in open-table: 344
+extension of the open-table: 0
+search node: [1, 6, 2, 7, 5, 4, 3, 8, 0]
+f(n): 5.600000
+--------------------------------
+438
+the number of nodes in open-table: 343
+extension of the open-table: -1
+search node: [0, 1, 6, 5, 4, 2, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+439
+the number of nodes in open-table: 345
+extension of the open-table: 2
+search node: [1, 4, 6, 5, 0, 2, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+440
+the number of nodes in open-table: 345
+extension of the open-table: 0
+search node: [0, 6, 5, 1, 4, 2, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+441
+the number of nodes in open-table: 347
+extension of the open-table: 2
+search node: [1, 6, 5, 4, 0, 2, 7, 3, 8]
+f(n): 5.600000
+--------------------------------
+442
+the number of nodes in open-table: 347
+extension of the open-table: 0
+search node: [1, 6, 5, 7, 4, 2, 0, 3, 8]
+f(n): 7.200000
+--------------------------------
+443
+the number of nodes in open-table: 347
+extension of the open-table: 0
+search node: [0, 6, 2, 1, 4, 7, 5, 3, 8]
+f(n): 8.000000
+--------------------------------
+444
+the number of nodes in open-table: 349
+extension of the open-table: 2
+search node: [1, 6, 2, 4, 0, 7, 5, 3, 8]
+f(n): 6.400000
+--------------------------------
+445
+the number of nodes in open-table: 351
+extension of the open-table: 2
+search node: [1, 6, 2, 5, 0, 7, 3, 4, 8]
+f(n): 7.200000
+--------------------------------
+446
+the number of nodes in open-table: 351
+extension of the open-table: 0
+search node: [1, 6, 2, 5, 4, 7, 3, 8, 0]
+f(n): 6.400000
+--------------------------------
+447
+the number of nodes in open-table: 351
+extension of the open-table: 0
+search node: [0, 6, 2, 1, 3, 4, 5, 7, 8]
+f(n): 8.000000
+--------------------------------
+448
+the number of nodes in open-table: 352
+extension of the open-table: 1
+search node: [1, 6, 2, 3, 0, 4, 5, 7, 8]
+f(n): 7.200000
+--------------------------------
+449
+the number of nodes in open-table: 353
+extension of the open-table: 1
+search node: [1, 6, 0, 5, 3, 2, 7, 8, 4]
+f(n): 5.600000
+--------------------------------
+450
+the number of nodes in open-table: 355
+extension of the open-table: 2
+search node: [1, 6, 2, 5, 0, 3, 7, 8, 4]
+f(n): 5.600000
+--------------------------------
+451
+the number of nodes in open-table: 356
+extension of the open-table: 1
+search node: [1, 6, 2, 5, 3, 7, 0, 8, 4]
+f(n): 6.400000
+--------------------------------
+452
+the number of nodes in open-table: 356
+extension of the open-table: 0
+search node: [0, 6, 5, 2, 1, 4, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+453
+the number of nodes in open-table: 356
+extension of the open-table: 0
+search node: [2, 6, 5, 7, 1, 4, 0, 3, 8]
+f(n): 8.000000
+--------------------------------
+454
+the number of nodes in open-table: 357
+extension of the open-table: 1
+search node: [2, 6, 0, 1, 4, 5, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+455
+the number of nodes in open-table: 358
+extension of the open-table: 1
+search node: [2, 6, 5, 1, 4, 7, 0, 3, 8]
+f(n): 8.000000
+--------------------------------
+456
+the number of nodes in open-table: 358
+extension of the open-table: 0
+search node: [2, 6, 5, 1, 3, 4, 0, 7, 8]
+f(n): 8.000000
+--------------------------------
+457
+the number of nodes in open-table: 358
+extension of the open-table: 0
+search node: [2, 6, 5, 1, 3, 4, 7, 8, 0]
+f(n): 6.400000
+--------------------------------
+458
+the number of nodes in open-table: 359
+extension of the open-table: 1
+search node: [6, 1, 5, 2, 0, 4, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+459
+the number of nodes in open-table: 359
+extension of the open-table: 0
+search node: [6, 1, 5, 7, 2, 4, 0, 3, 8]
+f(n): 8.000000
+--------------------------------
+460
+the number of nodes in open-table: 359
+extension of the open-table: 0
+search node: [0, 5, 6, 1, 2, 4, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+461
+the number of nodes in open-table: 361
+extension of the open-table: 2
+search node: [1, 5, 6, 2, 0, 4, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+462
+the number of nodes in open-table: 361
+extension of the open-table: 0
+search node: [1, 5, 6, 7, 2, 4, 0, 3, 8]
+f(n): 7.200000
+--------------------------------
+463
+the number of nodes in open-table: 361
+extension of the open-table: 0
+search node: [0, 1, 2, 6, 4, 5, 7, 3, 8]
+f(n): 7.200000
+--------------------------------
+464
+the number of nodes in open-table: 360
+extension of the open-table: -1
+search node: [0, 2, 6, 1, 4, 5, 7, 3, 8]
+f(n): 6.400000
+--------------------------------
+465
+the number of nodes in open-table: 362
+extension of the open-table: 2
+search node: [1, 2, 6, 4, 0, 5, 7, 3, 8]
+f(n): 4.800000
+--------------------------------
+466
+the number of nodes in open-table: 362
+extension of the open-table: 0
+search node: [1, 2, 6, 7, 4, 5, 0, 3, 8]
+f(n): 6.400000
+--------------------------------
+467
+the number of nodes in open-table: 362
+extension of the open-table: 0
+search node: [0, 2, 5, 1, 4, 7, 6, 3, 8]
+f(n): 7.200000
+--------------------------------
+468
+the number of nodes in open-table: 364
+extension of the open-table: 2
+search node: [1, 2, 5, 4, 0, 7, 6, 3, 8]
+f(n): 5.600000
+--------------------------------
+469
+the number of nodes in open-table: 366
+extension of the open-table: 2
+search node: [1, 2, 5, 6, 0, 7, 3, 4, 8]
+f(n): 6.400000
+--------------------------------
+470
+the number of nodes in open-table: 366
+extension of the open-table: 0
+search node: [1, 2, 5, 6, 4, 7, 3, 8, 0]
+f(n): 5.600000
+--------------------------------
+471
+the number of nodes in open-table: 366
+extension of the open-table: 0
+search node: [0, 2, 5, 1, 3, 4, 6, 7, 8]
+f(n): 7.200000
+--------------------------------
+472
+the number of nodes in open-table: 368
+extension of the open-table: 2
+search node: [1, 2, 5, 3, 0, 4, 6, 7, 8]
+f(n): 6.400000
+--------------------------------
+473
+the number of nodes in open-table: 369
+extension of the open-table: 1
+search node: [1, 2, 0, 6, 3, 5, 7, 8, 4]
+f(n): 4.800000
+--------------------------------
+474
+the number of nodes in open-table: 371
+extension of the open-table: 2
+search node: [1, 2, 5, 6, 0, 3, 7, 8, 4]
+f(n): 4.800000
+--------------------------------
+475
+the number of nodes in open-table: 372
+extension of the open-table: 1
+search node: [1, 2, 5, 6, 3, 7, 0, 8, 4]
+f(n): 5.600000
+--------------------------------
+476
+the number of nodes in open-table: 372
+extension of the open-table: 0
+search node: [0, 1, 5, 7, 2, 4, 3, 6, 8]
+f(n): 8.000000
+--------------------------------
+477
+the number of nodes in open-table: 372
+extension of the open-table: 0
+search node: [1, 5, 0, 7, 2, 4, 3, 6, 8]
+f(n): 7.200000
+--------------------------------
+478
+the number of nodes in open-table: 372
+extension of the open-table: 0
+search node: [0, 2, 5, 1, 7, 4, 3, 6, 8]
+f(n): 7.200000
+--------------------------------
+479
+the number of nodes in open-table: 371
+extension of the open-table: -1
+search node: [1, 2, 5, 3, 7, 4, 0, 6, 8]
+f(n): 6.400000
+--------------------------------
+480
+the number of nodes in open-table: 372
+extension of the open-table: 1
+search node: [1, 2, 0, 7, 4, 5, 3, 6, 8]
+f(n): 6.400000
+--------------------------------
+481
+the number of nodes in open-table: 373
+extension of the open-table: 1
+search node: [1, 2, 5, 7, 4, 3, 0, 6, 8]
+f(n): 6.400000
+--------------------------------
+482
+the number of nodes in open-table: 374
+extension of the open-table: 1
+search node: [1, 2, 0, 7, 6, 5, 3, 8, 4]
+f(n): 5.600000
+--------------------------------
+483
+the number of nodes in open-table: 376
+extension of the open-table: 2
+search node: [1, 2, 5, 7, 0, 6, 3, 8, 4]
+f(n): 4.800000
+--------------------------------
+484
+the number of nodes in open-table: 376
+extension of the open-table: 0
+search node: [1, 2, 5, 7, 6, 3, 0, 8, 4]
+f(n): 5.600000
+--------------------------------
+485
+the number of nodes in open-table: 376
+extension of the open-table: 0
+search node: [0, 4, 1, 2, 6, 7, 5, 3, 8]
+f(n): 8.000000
+--------------------------------
+486
+the number of nodes in open-table: 378
+extension of the open-table: 2
+search node: [2, 4, 1, 6, 0, 7, 5, 3, 8]
+f(n): 8.000000
+--------------------------------
+487
+the number of nodes in open-table: 378
+extension of the open-table: 0
+search node: [0, 6, 4, 2, 1, 7, 5, 3, 8]
+f(n): 8.000000
+--------------------------------
+488
+the number of nodes in open-table: 378
+extension of the open-table: 0
+search node: [2, 6, 4, 5, 1, 7, 0, 3, 8]
+f(n): 8.000000
+--------------------------------
+489
+the number of nodes in open-table: 379
+extension of the open-table: 1
+search node: [2, 6, 0, 1, 7, 4, 5, 3, 8]
+f(n): 8.000000
+--------------------------------
+490
+the number of nodes in open-table: 380
+extension of the open-table: 1
+search node: [2, 6, 4, 1, 7, 5, 0, 3, 8]
+f(n): 8.000000
+--------------------------------
+491
+the number of nodes in open-table: 380
+extension of the open-table: 0
+search node: [2, 6, 4, 1, 3, 7, 0, 5, 8]
+f(n): 8.000000
+--------------------------------
+492
+the number of nodes in open-table: 380
+extension of the open-table: 0
+search node: [2, 6, 4, 1, 3, 7, 5, 8, 0]
+f(n): 7.200000
+--------------------------------
+493
+the number of nodes in open-table: 381
+extension of the open-table: 1
+search node: [6, 1, 4, 2, 0, 7, 5, 3, 8]
+f(n): 8.000000
+--------------------------------
+494
+the number of nodes in open-table: 381
+extension of the open-table: 0
+search node: [6, 1, 4, 5, 2, 7, 0, 3, 8]
+f(n): 8.000000
+--------------------------------
+495
+the number of nodes in open-table: 381
+extension of the open-table: 0
+search node: [0, 4, 6, 1, 2, 7, 5, 3, 8]
+f(n): 8.000000
+--------------------------------
+496
+the number of nodes in open-table: 383
+extension of the open-table: 2
+search node: [1, 4, 6, 2, 0, 7, 5, 3, 8]
+f(n): 7.200000
+--------------------------------
+497
+the number of nodes in open-table: 383
+extension of the open-table: 0
+search node: [1, 4, 6, 5, 2, 7, 0, 3, 8]
+f(n): 7.200000
+--------------------------------
+498
+the number of nodes in open-table: 383
+extension of the open-table: 0
+search node: [0, 1, 2, 6, 7, 4, 5, 3, 8]
+f(n): 8.000000
+--------------------------------
+499
+the number of nodes in open-table: 385
+extension of the open-table: 2
+search node: [1, 7, 2, 6, 0, 4, 5, 3, 8]
+f(n): 7.200000
+--------------------------------
+500
+the number of nodes in open-table: 384
+extension of the open-table: -1
+search node: [0, 2, 6, 1, 7, 4, 5, 3, 8]
+f(n): 7.200000
+--------------------------------
+501
+the number of nodes in open-table: 386
+extension of the open-table: 2
+search node: [1, 2, 6, 7, 0, 4, 5, 3, 8]
+f(n): 6.400000
+--------------------------------
+502
+the number of nodes in open-table: 386
+extension of the open-table: 0
+search node: [1, 2, 6, 5, 7, 4, 0, 3, 8]
+f(n): 6.400000
+--------------------------------
+503
+the number of nodes in open-table: 386
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 7, 5, 6, 3, 8]
+f(n): 7.200000
+--------------------------------
+504
+the number of nodes in open-table: 388
+extension of the open-table: 2
+search node: [1, 2, 4, 7, 0, 5, 6, 3, 8]
+f(n): 6.400000
+--------------------------------
+505
+the number of nodes in open-table: 389
+extension of the open-table: 1
+search node: [1, 2, 4, 6, 0, 5, 3, 7, 8]
+f(n): 6.400000
+--------------------------------
+506
+the number of nodes in open-table: 389
+extension of the open-table: 0
+search node: [1, 2, 4, 6, 7, 5, 3, 8, 0]
+f(n): 5.600000
+--------------------------------
+507
+the number of nodes in open-table: 389
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 3, 7, 6, 5, 8]
+f(n): 7.200000
+--------------------------------
+508
+the number of nodes in open-table: 390
+extension of the open-table: 1
+search node: [1, 2, 4, 3, 0, 7, 6, 5, 8]
+f(n): 6.400000
+--------------------------------
+509
+the number of nodes in open-table: 391
+extension of the open-table: 1
+search node: [1, 2, 0, 6, 3, 4, 5, 8, 7]
+f(n): 5.600000
+--------------------------------
+510
+the number of nodes in open-table: 392
+extension of the open-table: 1
+search node: [1, 2, 4, 6, 0, 3, 5, 8, 7]
+f(n): 5.600000
+--------------------------------
+511
+the number of nodes in open-table: 393
+extension of the open-table: 1
+search node: [1, 2, 4, 6, 3, 5, 0, 8, 7]
+f(n): 5.600000
+--------------------------------
+512
+the number of nodes in open-table: 393
+extension of the open-table: 0
+search node: [5, 1, 4, 3, 2, 7, 0, 6, 8]
+f(n): 8.000000
+--------------------------------
+513
+the number of nodes in open-table: 393
+extension of the open-table: 0
+search node: [0, 4, 5, 1, 2, 7, 3, 6, 8]
+f(n): 8.000000
+--------------------------------
+514
+the number of nodes in open-table: 393
+extension of the open-table: 0
+search node: [1, 4, 5, 3, 2, 7, 0, 6, 8]
+f(n): 7.200000
+--------------------------------
+515
+the number of nodes in open-table: 393
+extension of the open-table: 0
+search node: [2, 4, 0, 1, 5, 7, 3, 6, 8]
+f(n): 7.200000
+--------------------------------
+516
+the number of nodes in open-table: 393
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 5, 7, 6, 8, 0]
+f(n): 4.800000
+--------------------------------
+517
+the number of nodes in open-table: 392
+extension of the open-table: -1
+search node: [0, 1, 2, 5, 7, 4, 3, 6, 8]
+f(n): 8.000000
+--------------------------------
+518
+the number of nodes in open-table: 394
+extension of the open-table: 2
+search node: [1, 7, 2, 5, 0, 4, 3, 6, 8]
+f(n): 7.200000
+--------------------------------
+519
+the number of nodes in open-table: 394
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 7, 3, 5, 6, 8]
+f(n): 7.200000
+--------------------------------
+520
+the number of nodes in open-table: 396
+extension of the open-table: 2
+search node: [1, 2, 4, 5, 0, 3, 6, 7, 8]
+f(n): 6.400000
+--------------------------------
+521
+the number of nodes in open-table: 396
+extension of the open-table: 0
+search node: [1, 2, 4, 5, 7, 3, 6, 8, 0]
+f(n): 5.600000
+--------------------------------
+522
+the number of nodes in open-table: 396
+extension of the open-table: 0
+search node: [0, 1, 2, 5, 6, 4, 3, 8, 7]
+f(n): 7.200000
+--------------------------------
+523
+the number of nodes in open-table: 397
+extension of the open-table: 1
+search node: [1, 6, 2, 5, 0, 4, 3, 8, 7]
+f(n): 6.400000
+--------------------------------
+524
+the number of nodes in open-table: 397
+extension of the open-table: 0
+search node: [0, 2, 5, 1, 6, 4, 3, 8, 7]
+f(n): 6.400000
+--------------------------------
+525
+the number of nodes in open-table: 398
+extension of the open-table: 1
+search node: [1, 2, 5, 6, 0, 4, 3, 8, 7]
+f(n): 5.600000
+--------------------------------
+526
+the number of nodes in open-table: 398
+extension of the open-table: 0
+search node: [1, 2, 5, 3, 6, 4, 0, 8, 7]
+f(n): 5.600000
+--------------------------------
+527
+the number of nodes in open-table: 398
+extension of the open-table: 0
+search node: [0, 1, 4, 5, 2, 6, 3, 8, 7]
+f(n): 6.400000
+--------------------------------
+528
+the number of nodes in open-table: 398
+extension of the open-table: 0
+search node: [1, 4, 0, 5, 2, 6, 3, 8, 7]
+f(n): 5.600000
+--------------------------------
+529
+the number of nodes in open-table: 398
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 5, 6, 3, 8, 7]
+f(n): 4.800000
+--------------------------------
+530
+the number of nodes in open-table: 398
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 5, 6, 0, 8, 7]
+f(n): 4.000000
+--------------------------------
+531
+the number of nodes in open-table: 398
+extension of the open-table: 0
+search node: [1, 2, 4, 5, 8, 6, 0, 3, 7]
+f(n): 5.600000
+--------------------------------
+532
+the number of nodes in open-table: 398
+extension of the open-table: 0
+search node: [1, 2, 4, 5, 8, 6, 3, 7, 0]
+f(n): 5.600000
+--------------------------------
+533
+the number of nodes in open-table: 398
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 6, 3, 5, 8, 7]
+f(n): 6.400000
+--------------------------------
+534
+the number of nodes in open-table: 399
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 0, 3, 8, 6, 7]
+f(n): 6.400000
+--------------------------------
+535
+the number of nodes in open-table: 399
+extension of the open-table: 0
+search node: [1, 2, 4, 5, 6, 3, 8, 7, 0]
+f(n): 6.400000
+--------------------------------
+536
+the number of nodes in open-table: 399
+extension of the open-table: 0
+search node: [0, 4, 1, 2, 3, 6, 5, 7, 8]
+f(n): 7.200000
+--------------------------------
+537
+the number of nodes in open-table: 401
+extension of the open-table: 2
+search node: [2, 4, 1, 3, 0, 6, 5, 7, 8]
+f(n): 7.200000
+--------------------------------
+538
+the number of nodes in open-table: 401
+extension of the open-table: 0
+search node: [0, 3, 4, 2, 1, 6, 5, 7, 8]
+f(n): 7.200000
+--------------------------------
+539
+the number of nodes in open-table: 401
+extension of the open-table: 0
+search node: [2, 3, 4, 5, 1, 6, 0, 7, 8]
+f(n): 7.200000
+--------------------------------
+540
+the number of nodes in open-table: 402
+extension of the open-table: 1
+search node: [2, 3, 0, 1, 6, 4, 5, 7, 8]
+f(n): 8.000000
+--------------------------------
+541
+the number of nodes in open-table: 403
+extension of the open-table: 1
+search node: [2, 3, 4, 1, 6, 5, 0, 7, 8]
+f(n): 8.000000
+--------------------------------
+542
+the number of nodes in open-table: 403
+extension of the open-table: 0
+search node: [2, 3, 4, 1, 7, 6, 0, 5, 8]
+f(n): 7.200000
+--------------------------------
+543
+the number of nodes in open-table: 403
+extension of the open-table: 0
+search node: [2, 3, 4, 1, 7, 6, 5, 8, 0]
+f(n): 6.400000
+--------------------------------
+544
+the number of nodes in open-table: 404
+extension of the open-table: 1
+search node: [3, 1, 4, 2, 0, 6, 5, 7, 8]
+f(n): 7.200000
+--------------------------------
+545
+the number of nodes in open-table: 404
+extension of the open-table: 0
+search node: [3, 1, 4, 5, 2, 6, 0, 7, 8]
+f(n): 7.200000
+--------------------------------
+546
+the number of nodes in open-table: 404
+extension of the open-table: 0
+search node: [0, 4, 3, 1, 2, 6, 5, 7, 8]
+f(n): 6.400000
+--------------------------------
+547
+the number of nodes in open-table: 406
+extension of the open-table: 2
+search node: [1, 4, 3, 2, 0, 6, 5, 7, 8]
+f(n): 5.600000
+--------------------------------
+548
+the number of nodes in open-table: 406
+extension of the open-table: 0
+search node: [1, 4, 3, 5, 2, 6, 0, 7, 8]
+f(n): 5.600000
+--------------------------------
+549
+the number of nodes in open-table: 406
+extension of the open-table: 0
+search node: [0, 1, 2, 3, 6, 4, 5, 7, 8]
+f(n): 8.000000
+--------------------------------
+550
+the number of nodes in open-table: 405
+extension of the open-table: -1
+search node: [0, 2, 3, 1, 6, 4, 5, 7, 8]
+f(n): 6.400000
+--------------------------------
+551
+the number of nodes in open-table: 407
+extension of the open-table: 2
+search node: [1, 2, 3, 6, 0, 4, 5, 7, 8]
+f(n): 5.600000
+--------------------------------
+552
+the number of nodes in open-table: 407
+extension of the open-table: 0
+search node: [1, 2, 3, 5, 6, 4, 0, 7, 8]
+f(n): 5.600000
+--------------------------------
+553
+the number of nodes in open-table: 407
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 6, 5, 3, 7, 8]
+f(n): 7.200000
+--------------------------------
+554
+the number of nodes in open-table: 409
+extension of the open-table: 2
+search node: [1, 2, 4, 3, 0, 5, 7, 6, 8]
+f(n): 5.600000
+--------------------------------
+555
+the number of nodes in open-table: 409
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 6, 5, 7, 8, 0]
+f(n): 4.800000
+--------------------------------
+556
+the number of nodes in open-table: 410
+extension of the open-table: 1
+search node: [1, 2, 0, 3, 7, 4, 5, 8, 6]
+f(n): 5.600000
+--------------------------------
+557
+the number of nodes in open-table: 412
+extension of the open-table: 2
+search node: [5, 1, 2, 3, 0, 4, 7, 8, 6]
+f(n): 6.400000
+--------------------------------
+558
+the number of nodes in open-table: 412
+extension of the open-table: 0
+search node: [5, 1, 2, 7, 3, 4, 0, 8, 6]
+f(n): 7.200000
+--------------------------------
+559
+the number of nodes in open-table: 412
+extension of the open-table: 0
+search node: [0, 3, 2, 1, 5, 4, 7, 8, 6]
+f(n): 5.600000
+--------------------------------
+560
+the number of nodes in open-table: 412
+extension of the open-table: 0
+search node: [1, 3, 2, 7, 5, 4, 0, 8, 6]
+f(n): 5.600000
+--------------------------------
+561
+the number of nodes in open-table: 413
+extension of the open-table: 1
+search node: [1, 3, 0, 5, 4, 2, 7, 8, 6]
+f(n): 5.600000
+--------------------------------
+562
+the number of nodes in open-table: 414
+extension of the open-table: 1
+search node: [1, 3, 2, 5, 4, 7, 0, 8, 6]
+f(n): 6.400000
+--------------------------------
+563
+the number of nodes in open-table: 414
+extension of the open-table: 0
+search node: [1, 3, 2, 5, 8, 4, 0, 7, 6]
+f(n): 7.200000
+--------------------------------
+564
+the number of nodes in open-table: 414
+extension of the open-table: 0
+search node: [1, 3, 2, 5, 8, 4, 7, 6, 0]
+f(n): 6.400000
+--------------------------------
+565
+the number of nodes in open-table: 416
+extension of the open-table: 2
+search node: [2, 3, 5, 1, 0, 4, 7, 8, 6]
+f(n): 6.400000
+--------------------------------
+566
+the number of nodes in open-table: 416
+extension of the open-table: 0
+search node: [0, 1, 5, 3, 2, 4, 7, 8, 6]
+f(n): 6.400000
+--------------------------------
+567
+the number of nodes in open-table: 416
+extension of the open-table: 0
+search node: [1, 5, 0, 3, 2, 4, 7, 8, 6]
+f(n): 5.600000
+--------------------------------
+568
+the number of nodes in open-table: 417
+extension of the open-table: 1
+search node: [1, 2, 0, 3, 4, 5, 7, 8, 6]
+f(n): 4.800000
+--------------------------------
+569
+the number of nodes in open-table: 418
+extension of the open-table: 1
+search node: [1, 2, 5, 3, 4, 7, 0, 8, 6]
+f(n): 5.600000
+--------------------------------
+570
+the number of nodes in open-table: 418
+extension of the open-table: 0
+search node: [1, 2, 5, 3, 8, 4, 0, 7, 6]
+f(n): 6.400000
+--------------------------------
+571
+the number of nodes in open-table: 418
+extension of the open-table: 0
+search node: [1, 2, 5, 3, 8, 4, 7, 6, 0]
+f(n): 5.600000
+--------------------------------
+572
+the number of nodes in open-table: 420
+extension of the open-table: 2
+search node: [1, 2, 5, 7, 0, 4, 8, 3, 6]
+f(n): 6.400000
+--------------------------------
+573
+the number of nodes in open-table: 420
+extension of the open-table: 0
+search node: [1, 2, 5, 7, 3, 4, 8, 6, 0]
+f(n): 6.400000
+--------------------------------
+574
+the number of nodes in open-table: 420
+extension of the open-table: 0
+search node: [0, 4, 5, 1, 2, 3, 7, 8, 6]
+f(n): 6.400000
+--------------------------------
+575
+the number of nodes in open-table: 420
+extension of the open-table: 0
+search node: [2, 4, 0, 1, 5, 3, 7, 8, 6]
+f(n): 5.600000
+--------------------------------
+576
+the number of nodes in open-table: 420
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 8, 3, 5, 7, 6]
+f(n): 7.200000
+--------------------------------
+577
+the number of nodes in open-table: 422
+extension of the open-table: 2
+search node: [1, 2, 4, 8, 0, 3, 5, 7, 6]
+f(n): 6.400000
+--------------------------------
+578
+the number of nodes in open-table: 423
+extension of the open-table: 1
+search node: [1, 2, 0, 5, 8, 4, 7, 6, 3]
+f(n): 5.600000
+--------------------------------
+579
+the number of nodes in open-table: 425
+extension of the open-table: 2
+search node: [1, 2, 4, 5, 0, 8, 7, 6, 3]
+f(n): 5.600000
+--------------------------------
+580
+the number of nodes in open-table: 426
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 8, 7, 0, 6, 3]
+f(n): 6.400000
+--------------------------------
+581
+the number of nodes in open-table: 426
+extension of the open-table: 0
+search node: [2, 4, 0, 1, 3, 7, 5, 8, 6]
+f(n): 7.200000
+--------------------------------
+582
+the number of nodes in open-table: 427
+extension of the open-table: 1
+search node: [2, 3, 4, 1, 0, 7, 5, 8, 6]
+f(n): 7.200000
+--------------------------------
+583
+the number of nodes in open-table: 427
+extension of the open-table: 0
+search node: [0, 1, 4, 3, 2, 7, 5, 8, 6]
+f(n): 7.200000
+--------------------------------
+584
+the number of nodes in open-table: 427
+extension of the open-table: 0
+search node: [1, 4, 0, 3, 2, 7, 5, 8, 6]
+f(n): 6.400000
+--------------------------------
+585
+the number of nodes in open-table: 427
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 8, 7, 0, 5, 6]
+f(n): 6.400000
+--------------------------------
+586
+the number of nodes in open-table: 427
+extension of the open-table: 0
+search node: [1, 2, 4, 3, 8, 7, 5, 6, 0]
+f(n): 6.400000
+--------------------------------
+587
+the number of nodes in open-table: 427
+extension of the open-table: 0
+search node: [0, 1, 4, 5, 2, 7, 8, 3, 6]
+f(n): 8.000000
+--------------------------------
+588
+the number of nodes in open-table: 427
+extension of the open-table: 0
+search node: [1, 4, 0, 5, 2, 7, 8, 3, 6]
+f(n): 7.200000
+--------------------------------
+589
+the number of nodes in open-table: 427
+extension of the open-table: 0
+search node: [0, 2, 4, 1, 5, 7, 8, 3, 6]
+f(n): 6.400000
+--------------------------------
+590
+the number of nodes in open-table: 427
+extension of the open-table: 0
+search node: [1, 2, 4, 8, 5, 7, 0, 3, 6]
+f(n): 5.600000
+--------------------------------
+591
+the number of nodes in open-table: 427
+extension of the open-table: 0
+search node: [1, 2, 0, 5, 7, 4, 8, 3, 6]
+f(n): 6.400000
+--------------------------------
+592
+the number of nodes in open-table: 428
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 7, 8, 0, 3, 6]
+f(n): 6.400000
+--------------------------------
+593
+the number of nodes in open-table: 429
+extension of the open-table: 1
+search node: [1, 2, 0, 5, 3, 4, 8, 6, 7]
+f(n): 6.400000
+--------------------------------
+594
+the number of nodes in open-table: 430
+extension of the open-table: 1
+search node: [1, 2, 4, 5, 3, 8, 0, 6, 7]
+f(n): 6.400000
+--------------------------------
+595
+the number of nodes in open-table: 431
+extension of the open-table: 1
+search node: [4, 0, 2, 5, 1, 6, 7, 3, 8]
+f(n): 6.600000
+--------------------------------
+596
+the number of nodes in open-table: 431
+extension of the open-table: 0
+search node: [5, 0, 2, 1, 4, 6, 7, 3, 8]
+f(n): 6.600000
+--------------------------------
+597
+the number of nodes in open-table: 432
+extension of the open-table: 1
+search node: [5, 4, 2, 1, 6, 0, 7, 3, 8]
+f(n): 7.400000
+--------------------------------
+598
+the number of nodes in open-table: 433
+extension of the open-table: 1
+search node: [5, 4, 2, 1, 3, 6, 7, 0, 8]
+f(n): 6.600000
+--------------------------------
+599
+the number of nodes in open-table: 434
+extension of the open-table: 1
+search node: [5, 4, 2, 7, 1, 6, 3, 0, 8]
+f(n): 7.400000
+--------------------------------
+600
+the number of nodes in open-table: 435
+extension of the open-table: 1
+search node: [5, 6, 1, 0, 2, 4, 7, 3, 8]
+f(n): 7.400000
+--------------------------------
+601
+the number of nodes in open-table: 436
+extension of the open-table: 1
+search node: [5, 6, 1, 2, 4, 0, 7, 3, 8]
+f(n): 7.400000
+--------------------------------
+602
+the number of nodes in open-table: 437
+extension of the open-table: 1
+search node: [5, 6, 1, 2, 3, 4, 7, 0, 8]
+f(n): 7.400000
+--------------------------------
+603
+the number of nodes in open-table: 438
+extension of the open-table: 1
+search node: [1, 0, 4, 5, 6, 7, 2, 3, 8]
+f(n): 7.400000
+--------------------------------
+604
+the number of nodes in open-table: 439
+extension of the open-table: 1
+search node: [5, 0, 4, 6, 1, 7, 2, 3, 8]
+f(n): 8.200000
+--------------------------------
+605
+the number of nodes in open-table: 440
+extension of the open-table: 1
+search node: [5, 1, 4, 6, 7, 0, 2, 3, 8]
+f(n): 8.200000
+--------------------------------
+606
+the number of nodes in open-table: 441
+extension of the open-table: 1
+search node: [5, 1, 4, 6, 3, 7, 2, 0, 8]
+f(n): 8.200000
+--------------------------------
+607
+the number of nodes in open-table: 442
+extension of the open-table: 1
+search node: [5, 0, 4, 2, 1, 7, 3, 6, 8]
+f(n): 8.200000
+--------------------------------
+608
+the number of nodes in open-table: 443
+extension of the open-table: 1
+search node: [5, 1, 4, 2, 7, 0, 3, 6, 8]
+f(n): 8.200000
+--------------------------------
+609
+the number of nodes in open-table: 445
+extension of the open-table: 2
+search node: [5, 1, 4, 2, 6, 0, 3, 8, 7]
+f(n): 7.400000
+--------------------------------
+610
+the number of nodes in open-table: 446
+extension of the open-table: 1
+search node: [1, 0, 4, 5, 3, 6, 2, 7, 8]
+f(n): 6.600000
+--------------------------------
+611
+the number of nodes in open-table: 447
+extension of the open-table: 1
+search node: [5, 0, 4, 3, 1, 6, 2, 7, 8]
+f(n): 7.400000
+--------------------------------
+612
+the number of nodes in open-table: 448
+extension of the open-table: 1
+search node: [5, 1, 4, 3, 6, 0, 2, 7, 8]
+f(n): 8.200000
+--------------------------------
+613
+the number of nodes in open-table: 448
+extension of the open-table: 0
+search node: [5, 1, 4, 3, 7, 6, 2, 0, 8]
+f(n): 7.400000
+--------------------------------
+614
+the number of nodes in open-table: 449
+extension of the open-table: 1
+search node: [5, 0, 1, 2, 3, 4, 7, 8, 6]
+f(n): 6.600000
+--------------------------------
+615
+the number of nodes in open-table: 450
+extension of the open-table: 1
+search node: [5, 0, 4, 2, 1, 3, 7, 8, 6]
+f(n): 6.600000
+--------------------------------
+616
+the number of nodes in open-table: 451
+extension of the open-table: 1
+search node: [5, 1, 4, 2, 8, 3, 7, 0, 6]
+f(n): 7.400000
+--------------------------------
+617
+the number of nodes in open-table: 452
+extension of the open-table: 1
+search node: [5, 1, 4, 0, 3, 7, 2, 8, 6]
+f(n): 7.400000
+--------------------------------
+618
+the number of nodes in open-table: 453
+extension of the open-table: 1
+search node: [5, 1, 4, 2, 3, 7, 8, 0, 6]
+f(n): 8.200000
+--------------------------------
+619
+the number of nodes in open-table: 454
+extension of the open-table: 1
+search node: [7, 5, 4, 0, 1, 6, 3, 2, 8]
+f(n): 7.400000
+--------------------------------
+620
+the number of nodes in open-table: 456
+extension of the open-table: 2
+search node: [5, 4, 7, 0, 1, 6, 3, 2, 8]
+f(n): 7.400000
+--------------------------------
+621
+the number of nodes in open-table: 457
+extension of the open-table: 1
+search node: [1, 0, 4, 5, 7, 6, 3, 2, 8]
+f(n): 6.600000
+--------------------------------
+622
+the number of nodes in open-table: 458
+extension of the open-table: 1
+search node: [5, 0, 1, 7, 6, 4, 3, 2, 8]
+f(n): 8.200000
+--------------------------------
+623
+the number of nodes in open-table: 460
+extension of the open-table: 2
+search node: [5, 1, 7, 0, 6, 4, 3, 2, 8]
+f(n): 8.200000
+--------------------------------
+624
+the number of nodes in open-table: 461
+extension of the open-table: 1
+search node: [5, 1, 4, 0, 6, 3, 7, 2, 8]
+f(n): 7.400000
+--------------------------------
+625
+the number of nodes in open-table: 462
+extension of the open-table: 1
+search node: [5, 1, 4, 7, 6, 3, 2, 0, 8]
+f(n): 8.200000
+--------------------------------
+626
+the number of nodes in open-table: 463
+extension of the open-table: 1
+search node: [5, 0, 1, 7, 2, 4, 3, 8, 6]
+f(n): 7.400000
+--------------------------------
+627
+the number of nodes in open-table: 465
+extension of the open-table: 2
+search node: [5, 1, 7, 0, 2, 4, 3, 8, 6]
+f(n): 7.400000
+--------------------------------
+628
+the number of nodes in open-table: 466
+extension of the open-table: 1
+search node: [5, 0, 4, 7, 1, 2, 3, 8, 6]
+f(n): 7.400000
+--------------------------------
+629
+the number of nodes in open-table: 467
+extension of the open-table: 1
+search node: [5, 1, 4, 0, 7, 2, 3, 8, 6]
+f(n): 7.400000
+--------------------------------
+630
+the number of nodes in open-table: 468
+extension of the open-table: 1
+search node: [5, 1, 4, 7, 8, 2, 3, 0, 6]
+f(n): 8.200000
+--------------------------------
+631
+the number of nodes in open-table: 469
+extension of the open-table: 1
+search node: [5, 1, 4, 7, 2, 3, 8, 0, 6]
+f(n): 8.200000
+--------------------------------
+632
+the number of nodes in open-table: 470
+extension of the open-table: 1
+search node: [5, 0, 1, 4, 2, 6, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+633
+the number of nodes in open-table: 471
+extension of the open-table: 1
+search node: [4, 5, 1, 2, 6, 0, 7, 3, 8]
+f(n): 7.400000
+--------------------------------
+634
+the number of nodes in open-table: 472
+extension of the open-table: 1
+search node: [4, 5, 1, 2, 3, 6, 7, 0, 8]
+f(n): 6.600000
+--------------------------------
+635
+the number of nodes in open-table: 473
+extension of the open-table: 1
+search node: [4, 5, 1, 7, 2, 6, 3, 0, 8]
+f(n): 7.400000
+--------------------------------
+636
+the number of nodes in open-table: 473
+extension of the open-table: 0
+search node: [2, 0, 5, 4, 1, 6, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+637
+the number of nodes in open-table: 474
+extension of the open-table: 1
+search node: [4, 2, 5, 7, 1, 6, 3, 0, 8]
+f(n): 6.600000
+--------------------------------
+638
+the number of nodes in open-table: 474
+extension of the open-table: 0
+search node: [4, 0, 2, 1, 6, 5, 7, 3, 8]
+f(n): 7.400000
+--------------------------------
+639
+the number of nodes in open-table: 476
+extension of the open-table: 2
+search node: [4, 2, 1, 0, 6, 5, 7, 3, 8]
+f(n): 6.600000
+--------------------------------
+640
+the number of nodes in open-table: 477
+extension of the open-table: 1
+search node: [4, 2, 5, 0, 6, 7, 1, 3, 8]
+f(n): 7.400000
+--------------------------------
+641
+the number of nodes in open-table: 478
+extension of the open-table: 1
+search node: [4, 2, 5, 1, 6, 7, 3, 0, 8]
+f(n): 7.400000
+--------------------------------
+642
+the number of nodes in open-table: 479
+extension of the open-table: 1
+search node: [4, 2, 5, 0, 3, 6, 1, 7, 8]
+f(n): 6.600000
+--------------------------------
+643
+the number of nodes in open-table: 481
+extension of the open-table: 2
+search node: [4, 2, 5, 1, 3, 0, 7, 8, 6]
+f(n): 5.800000
+--------------------------------
+644
+the number of nodes in open-table: 482
+extension of the open-table: 1
+search node: [2, 1, 5, 4, 6, 0, 7, 3, 8]
+f(n): 6.600000
+--------------------------------
+645
+the number of nodes in open-table: 483
+extension of the open-table: 1
+search node: [2, 1, 5, 4, 3, 6, 7, 0, 8]
+f(n): 5.800000
+--------------------------------
+646
+the number of nodes in open-table: 484
+extension of the open-table: 1
+search node: [2, 1, 5, 7, 4, 6, 3, 0, 8]
+f(n): 7.400000
+--------------------------------
+647
+the number of nodes in open-table: 485
+extension of the open-table: 1
+search node: [1, 0, 2, 4, 5, 6, 7, 3, 8]
+f(n): 4.200000
+--------------------------------
+648
+the number of nodes in open-table: 486
+extension of the open-table: 1
+search node: [1, 5, 2, 4, 6, 0, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+649
+the number of nodes in open-table: 487
+extension of the open-table: 1
+search node: [1, 5, 2, 4, 3, 6, 7, 0, 8]
+f(n): 5.000000
+--------------------------------
+650
+the number of nodes in open-table: 488
+extension of the open-table: 1
+search node: [1, 5, 2, 7, 4, 6, 3, 0, 8]
+f(n): 6.600000
+--------------------------------
+651
+the number of nodes in open-table: 489
+extension of the open-table: 1
+search node: [2, 1, 4, 0, 6, 5, 7, 3, 8]
+f(n): 7.400000
+--------------------------------
+652
+the number of nodes in open-table: 490
+extension of the open-table: 1
+search node: [1, 6, 4, 0, 2, 5, 7, 3, 8]
+f(n): 6.600000
+--------------------------------
+653
+the number of nodes in open-table: 491
+extension of the open-table: 1
+search node: [1, 6, 4, 2, 5, 0, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+654
+the number of nodes in open-table: 492
+extension of the open-table: 1
+search node: [1, 6, 4, 2, 3, 5, 7, 0, 8]
+f(n): 6.600000
+--------------------------------
+655
+the number of nodes in open-table: 493
+extension of the open-table: 1
+search node: [1, 4, 2, 6, 5, 0, 7, 3, 8]
+f(n): 5.800000
+--------------------------------
+656
+the number of nodes in open-table: 494
+extension of the open-table: 1
+search node: [1, 4, 2, 6, 3, 5, 7, 0, 8]
+f(n): 6.600000
+--------------------------------
+657
+the number of nodes in open-table: 495
+extension of the open-table: 1
+search node: [1, 4, 2, 7, 6, 5, 3, 0, 8]
+f(n): 7.400000
+--------------------------------
+658
+the number of nodes in open-table: 496
+extension of the open-table: 1
+search node: [4, 0, 5, 1, 6, 7, 2, 3, 8]
+f(n): 8.200000
+--------------------------------
+659
+the number of nodes in open-table: 497
+extension of the open-table: 1
+search node: [1, 0, 5, 6, 4, 7, 2, 3, 8]
+f(n): 7.400000
+--------------------------------
+660
+the number of nodes in open-table: 498
+extension of the open-table: 1
+search node: [1, 4, 5, 6, 7, 0, 2, 3, 8]
+f(n): 7.400000
+--------------------------------
+661
+the number of nodes in open-table: 499
+extension of the open-table: 1
+search node: [1, 4, 5, 6, 3, 7, 2, 0, 8]
+f(n): 7.400000
+--------------------------------
+662
+the number of nodes in open-table: 500
+extension of the open-table: 1
+search node: [1, 0, 5, 2, 4, 7, 3, 6, 8]
+f(n): 7.400000
+--------------------------------
+663
+the number of nodes in open-table: 501
+extension of the open-table: 1
+search node: [1, 4, 5, 2, 7, 0, 3, 6, 8]
+f(n): 7.400000
+--------------------------------
+664
+the number of nodes in open-table: 503
+extension of the open-table: 2
+search node: [1, 4, 5, 2, 6, 0, 3, 8, 7]
+f(n): 6.600000
+--------------------------------
+665
+the number of nodes in open-table: 504
+extension of the open-table: 1
+search node: [4, 0, 5, 1, 3, 6, 2, 7, 8]
+f(n): 7.400000
+--------------------------------
+666
+the number of nodes in open-table: 505
+extension of the open-table: 1
+search node: [1, 0, 5, 3, 4, 6, 2, 7, 8]
+f(n): 6.600000
+--------------------------------
+667
+the number of nodes in open-table: 506
+extension of the open-table: 1
+search node: [1, 4, 5, 3, 6, 0, 2, 7, 8]
+f(n): 7.400000
+--------------------------------
+668
+the number of nodes in open-table: 506
+extension of the open-table: 0
+search node: [1, 4, 5, 3, 7, 6, 2, 0, 8]
+f(n): 6.600000
+--------------------------------
+669
+the number of nodes in open-table: 507
+extension of the open-table: 1
+search node: [1, 0, 4, 2, 3, 5, 7, 8, 6]
+f(n): 5.800000
+--------------------------------
+670
+the number of nodes in open-table: 509
+extension of the open-table: 2
+search node: [1, 4, 2, 0, 3, 5, 7, 8, 6]
+f(n): 5.800000
+--------------------------------
+671
+the number of nodes in open-table: 510
+extension of the open-table: 1
+search node: [1, 0, 5, 2, 4, 3, 7, 8, 6]
+f(n): 5.800000
+--------------------------------
+672
+the number of nodes in open-table: 511
+extension of the open-table: 1
+search node: [1, 4, 5, 2, 8, 3, 7, 0, 6]
+f(n): 6.600000
+--------------------------------
+673
+the number of nodes in open-table: 512
+extension of the open-table: 1
+search node: [1, 4, 5, 0, 3, 7, 2, 8, 6]
+f(n): 6.600000
+--------------------------------
+674
+the number of nodes in open-table: 513
+extension of the open-table: 1
+search node: [1, 4, 5, 2, 3, 7, 8, 0, 6]
+f(n): 7.400000
+--------------------------------
+675
+the number of nodes in open-table: 514
+extension of the open-table: 1
+search node: [7, 1, 5, 0, 4, 6, 3, 2, 8]
+f(n): 7.400000
+--------------------------------
+676
+the number of nodes in open-table: 516
+extension of the open-table: 2
+search node: [1, 5, 7, 0, 4, 6, 3, 2, 8]
+f(n): 6.600000
+--------------------------------
+677
+the number of nodes in open-table: 517
+extension of the open-table: 1
+search node: [4, 0, 5, 1, 7, 6, 3, 2, 8]
+f(n): 7.400000
+--------------------------------
+678
+the number of nodes in open-table: 518
+extension of the open-table: 1
+search node: [1, 0, 4, 7, 6, 5, 3, 2, 8]
+f(n): 7.400000
+--------------------------------
+679
+the number of nodes in open-table: 520
+extension of the open-table: 2
+search node: [1, 4, 7, 0, 6, 5, 3, 2, 8]
+f(n): 7.400000
+--------------------------------
+680
+the number of nodes in open-table: 521
+extension of the open-table: 1
+search node: [1, 4, 5, 0, 6, 3, 7, 2, 8]
+f(n): 6.600000
+--------------------------------
+681
+the number of nodes in open-table: 522
+extension of the open-table: 1
+search node: [1, 4, 5, 7, 6, 3, 2, 0, 8]
+f(n): 7.400000
