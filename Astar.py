@@ -17,6 +17,8 @@ class Astar():
   def h(self, idx, l):
     def h1(l):
       """
+      8 puzzles
+
       mistaken number
       """
       count = 0
@@ -27,7 +29,38 @@ class Astar():
 
     def h2(l):
       """
+      8 puzzles
+
       manhatten distance
+      """
+      dis = 0
+      for i in range(9):
+        if self.target_status[i] == 0:
+          continue
+        w = -1
+        for j in range(9):
+          if self.target_status[i] == l[j]:
+            w = j
+            break
+        dis += w // 3 + w % 3
+      return dis
+    def h3(l):
+      """
+      9 puzzles
+
+      mistaken number
+      """
+      count = 0
+      for i in range(9):
+        if self.target_status[i] != l[i]:
+          count += 1
+      return count
+    
+    def h4(l):
+      """
+      9 puzzles
+
+      manhattan distance
       """
       dis = 0
       for i in range(9):
@@ -38,8 +71,15 @@ class Astar():
             break
         dis += w // 3 + w % 3
       return dis
-    
-    return (h1(l) if idx == 1 else h2(l))
+
+    if idx == 1:
+      return h1(l)
+    elif idx == 2:
+      return h2(l)
+    elif idx == 3:
+      return h3(l)
+    else:
+      return h4(l)
 
   def fn(self, idx, l):
     count = self.h(idx, l)

@@ -1,7 +1,7 @@
 from Astar import Astar
-
+from config import h
 if __name__ == "__main__":
-  astar = Astar(2)
+  astar = Astar(h)
   print(astar.open)
   search_times = 0
   last_num = 0

@@ -1,23 +1,6 @@
 import random
 import copy
 
-# def rand_status(src):
-#   flag = True
-#   status = copy.deepcopy(src)
-#   while flag:
-#     random.shuffle(status)
-#     count = 0
-#     for i in range(len(status)):
-#       current = status[i]
-#       if current == 0:
-#         continue
-#       for j in range(i):
-#         if status[j] > current:
-#           count += 1
-#     if count % 2 == 0:
-#       flag = False
-#   return status
-
 def rand_status(src, step):
   cstep = 0
   zero = -1
