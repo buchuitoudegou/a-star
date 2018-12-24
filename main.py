@@ -1,6 +1,11 @@
 from Astar import Astar
-from config import h
+
 if __name__ == "__main__":
+  h = int(input('plz input the types of inspiration functions: \n\
+  1: 8-puzzle problem. The number of mistaken puzzles.\n\
+  2: 8-puzzle problem. Manhattan distance of each puzzle.\n\
+  3: 9-puzzle problem. The number of mistaken puzzles.\n\
+  4: 9-puzzle problem. Manhattan distance of each puzzle.\n'))
   astar = Astar(h)
   print(astar.open)
   search_times = 0

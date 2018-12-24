@@ -8,8 +8,9 @@ class Astar():
     self.closed = []
     # self.initial_status = rand_status([1, 2, 3, 4, 5, 6, 7, 8, 0])
     # self.initial_status = [1,2,3,7,0,4,5,8,6]
+    # self.initial_status = [5, 7, 4, 1, 3, 2, 8, 6, 0] 
     self.target_status = [1, 2, 3, 4, 5, 6, 7, 8, 0]
-    self.initial_status = rand_status([1, 2, 3, 4, 5, 6, 7, 8, 0], 40)
+    self.initial_status = rand_status([1, 2, 3, 4, 5, 6, 7, 8, 0], 50)
     self.graph = Graph(self.initial_status)
     self.open.append(self.initial_status)
     self.idx = idx
@@ -23,7 +24,7 @@ class Astar():
       """
       count = 0
       for i in range(9):
-        if self.target_status[i] != l[i] and l[i] != 0:
+        if self.target_status[i] != l[i] and l[i] != 0 and self.target_status[i] != 0:
           count += 1
       return count
 
@@ -109,10 +110,11 @@ class Astar():
     s_status = generate_subsequent_node(cur_status)
     M = []
     for sst in s_status:
-      if self.h(index, cur_status) - self.h(index, sst) - 1 > 0:
+      if self.h(index, cur_status) - self.h(index, sst) - 1 > 0 and index != 3:
         # judge the monotonicity of h
         print('h fail')
         exit(0)
+        pass
       if not self.graph.is_prev_node(cur_status, sst):
         M.append(sst)
     
