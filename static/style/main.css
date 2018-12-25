@@ -1,0 +1,17 @@
+.puzzle {
+  display: inline-block;
+  position: relative;
+  width: 117px;
+  height: 117px;
+  margin: 0.5px;
+  background-image: url('/static/img/bg.png');
+}
+
+#puzzle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 355px;
+  line-height: 0%;
+  transform: translate(-50%,-50%);
+}

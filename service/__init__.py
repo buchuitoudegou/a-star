@@ -1,4 +1,4 @@
-from Astar import Astar
+from . import astar
 
 if __name__ == "__main__":
   h = int(input('plz input the types of inspiration functions: \n\
@@ -6,7 +6,7 @@ if __name__ == "__main__":
   2: 8-puzzle problem. Manhattan distance of each puzzle.\n\
   3: 9-puzzle problem. The number of mistaken puzzles.\n\
   4: 9-puzzle problem. Manhattan distance of each puzzle.\n'))
-  astar = Astar(h)
+  astar = astar.Astar(h)
   print(astar.open)
   search_times = 0
   last_num = 0

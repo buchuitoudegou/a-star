@@ -1,5 +1,5 @@
-from utils import rand_status, generate_subsequent_node
-from Graph import Graph
+from .utils import rand_status, generate_subsequent_node
+from .Graph import Graph
 import copy
 
 class Astar():
