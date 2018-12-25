@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,12 +8,13 @@
   <script src="/static/puzzle.js"></script>
   <script src="/static/main.js"></script>
   <link href="/static/style/main.css" rel="stylesheet"/>
-  <title>Puzzle!</title>
+  <title>Puzzle</title>
 </head>
 <body>
   <div id="puzzle">
-    <puzzle-wrapper></puzzle-wrapper>
+    <puzzle-wrapper :status="status"></puzzle-wrapper>
+    <button @click="restart">restart</button>
+    <button @click="recover">recover</button>
   </div>
 </body>
-
 </html>

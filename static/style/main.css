@@ -1,6 +1,13 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+}
+
 .puzzle {
   display: inline-block;
-  position: relative;
+  position: absolute;
   width: 117px;
   height: 117px;
   margin: 0.5px;
@@ -8,10 +15,14 @@
 }
 
 #puzzle {
-  position: absolute;
-  top: 50%;
-  left: 50%;
+  position: relative;
   width: 355px;
-  line-height: 0%;
-  transform: translate(-50%,-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  position: relative;
+  top: 350px;
 }
