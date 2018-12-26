@@ -5,8 +5,8 @@ app = Flask(__name__)
 
 @app.route('/restart/<method>')
 def restart(method):
-  astar = service.astar.Astar(method)
-  print('start')
+  astar = service.astar.Astar(int(method))
+  print(method)
   search_times = 0
   last_num = 0
   while True:
@@ -23,6 +23,7 @@ def restart(method):
     if complete:
       break
   result = astar.graph.paths[str(astar.target_status)]
+  print(method)
   for i in range(len(result)):
     temp = result[i]
     for j in range(3):

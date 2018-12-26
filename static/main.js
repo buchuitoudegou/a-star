@@ -13,7 +13,7 @@ window.onload = function() {
     methods: {
       restart() {
         const self = this;
-        fetch('http://localhost:8080/restart/1').then((response) => {
+        fetch('http://localhost:8080/restart/3').then((response) => {
           return response.json()
         }).then((res) => {
           console.log(res.data);
@@ -33,7 +33,7 @@ window.onload = function() {
           } else {
             clearInterval(self.intervalId);
           }
-        }, 1000);
+        }, 500);
       }
     } 
   });

@@ -7,10 +7,10 @@ class Astar():
     self.open = []
     self.closed = []
     # self.initial_status = rand_status([1, 2, 3, 4, 5, 6, 7, 8, 0])
-    # self.initial_status = [1,2,3,7,0,4,5,8,6]
-    self.initial_status = [1,6,2,4,0,8,7,3,5]
+    # self.initial_status = [6, 1, 8, 7, 0, 2, 5, 3, 4]
+    # self.initial_status = [1, 6, 2, 5, 3, 8, 0, 4, 7]
     self.target_status = [1, 2, 3, 4, 5, 6, 7, 8, 0]
-    # self.initial_status = rand_status([1, 2, 3, 4, 5, 6, 7, 8, 0], 40)
+    self.initial_status = rand_status([1, 2, 3, 4, 5, 6, 7, 8, 0], 40)
     self.graph = Graph(self.initial_status)
     self.open.append(self.initial_status)
     self.idx = idx
