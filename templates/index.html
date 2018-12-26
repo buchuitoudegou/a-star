@@ -1,20 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.js"></script>
-  <script src="/static/puzzle.js"></script>
-  <script src="/static/main.js"></script>
-  <link href="/static/style/main.css" rel="stylesheet"/>
-  <title>Puzzle</title>
-</head>
-<body>
-  <div id="puzzle">
-    <puzzle-wrapper :status="status"></puzzle-wrapper>
-    <button @click="restart">restart</button>
-    <button @click="recover">recover</button>
-  </div>
-</body>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+    <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+    <script src="/static/puzzle.js"></script>
+    <script src="/static/main.js"></script>
+    <link href="/static/style/main.css" rel="stylesheet"/>
+    <title>Puzzle</title>
+  </head>
+  <body>
+    <div id="header">
+      <h1>8-puzzle problem</h1>
+    </div>
+    <div id="puzzle">
+      <el-card>
+        <puzzle-wrapper :status="status"></puzzle-wrapper>
+        <el-button @click="restart">restart</el-button>
+        <el-button @click="recover">recover</el-button>
+      </el-card>
+    </div>
+  </body>
 </html>

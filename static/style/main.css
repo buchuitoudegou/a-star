@@ -1,8 +1,23 @@
 body {
+  margin-top: -30px;
+  margin-right: 0px;
+  margin-left: 0px;
+  height: 100%;
+  background-color: #feffe6;
+}
+#header {
+  background-image: url('/static/img/banner.jpg');
+  background-size: cover;
+  color: white;
+  margin: 0 auto;
+  height: 15rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 300px;
+}
+
+#header h1 {
+  font-size: 3rem;
 }
 
 .puzzle {
@@ -10,19 +25,18 @@ body {
   position: absolute;
   width: 117px;
   height: 117px;
-  margin: 0.5px;
   background-image: url('/static/img/bg.png');
 }
 
 #puzzle {
   position: relative;
-  width: 355px;
+  padding: 24px 0 0px 0;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
 }
 
-button {
-  position: relative;
-  top: 350px;
+.el-card__body {
+  padding: 0 24px 5px 24px;
+  text-align: center;
 }

@@ -23,6 +23,13 @@ def restart(method):
     if complete:
       break
   result = astar.graph.paths[str(astar.target_status)]
+  for i in range(len(result)):
+    temp = result[i]
+    for j in range(3):
+     print(temp[j*3:j*3+3])
+    if i != len(result) - 1:
+      print('   ||  ')
+      print('   \\/')
   return jsonify(status='OK',
                 data=result)
 

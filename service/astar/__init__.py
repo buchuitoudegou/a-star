@@ -8,9 +8,9 @@ class Astar():
     self.closed = []
     # self.initial_status = rand_status([1, 2, 3, 4, 5, 6, 7, 8, 0])
     # self.initial_status = [1,2,3,7,0,4,5,8,6]
-    # self.initial_status = [5, 7, 4, 1, 3, 2, 8, 6, 0] 
+    self.initial_status = [1,6,2,4,0,8,7,3,5]
     self.target_status = [1, 2, 3, 4, 5, 6, 7, 8, 0]
-    self.initial_status = rand_status([1, 2, 3, 4, 5, 6, 7, 8, 0], 40)
+    # self.initial_status = rand_status([1, 2, 3, 4, 5, 6, 7, 8, 0], 40)
     self.graph = Graph(self.initial_status)
     self.open.append(self.initial_status)
     self.idx = idx
