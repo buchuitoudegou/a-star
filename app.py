@@ -12,8 +12,6 @@ def restart(method):
   while True:
     complete, status, f_status = astar.search()
     search_times += 1
-    if complete:
-      break
     print(search_times)
     print('the number of nodes in open-table: %d' % len(astar.open))
     print('extension of the open-table: %d' % (len(astar.open) - last_num))
