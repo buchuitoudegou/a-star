@@ -1,5 +1,5 @@
 # a-star
-simple implement of a* algorithm and solve 8-puzzle problems
+simple implementation of a* algorithm and solve 8-puzzle problems
 
 ## dependencies
 * python3.5+
